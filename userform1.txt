@@ -1,0 +1,235 @@
+' =================================================================================
+' == GESTION DE L'ÉTAT (SAUVEGARDE ET CHARGEMENT) ==
+' =================================================================================
+
+Private Sub Biblio_Change()
+
+End Sub
+
+Private Sub Frame1_Click()
+
+End Sub
+
+Private Sub UserForm_Initialize()
+    ' Se déclenche au chargement du formulaire.
+    
+    ' 1. Remplit les listes déroulantes.
+    LoadTitlesFromFile
+    LoadLibrariesFromServer
+    
+    ' 2. Tente de restaurer la dernière session de travail.
+    LoadLastWorkSettings
+End Sub
+
+Private Sub UserForm_QueryClose(Cancel As Integer, CloseMode As Integer)
+    ' Se déclenche juste avant la fermeture du formulaire.
+    ' C'est ici que nous sauvegardons l'état actuel.
+    SaveCurrentWorkSettings
+End Sub
+
+Private Sub SaveCurrentWorkSettings()
+    ' Sauvegarde les valeurs actuelles dans le fichier lastwork.txt.
+    Dim fso As Object
+    Dim fileStream As Object
+    Dim filePath As String
+    
+    On Error GoTo ErrorHandler
+    
+    Set fso = CreateObject("Scripting.FileSystemObject")
+    filePath = ThisWorkbook.Path & "\parametres\lastwork.txt"
+    
+    ' Ouvre le fichier en mode écriture, le crée s'il n'existe pas.
+    Set fileStream = fso.CreateTextFile(filePath, True)
+    
+    ' Écrit les valeurs, une par ligne.
+    fileStream.WriteLine Me.ComboBox1.text
+    fileStream.WriteLine Me.Biblio.text
+    fileStream.WriteLine GetSelectedPriceType()
+    
+    fileStream.Close
+    
+    Set fileStream = Nothing
+    Set fso = Nothing
+    Exit Sub
+    
+ErrorHandler:
+    ' En cas d'erreur, on ne fait rien pour ne pas bloquer la fermeture.
+    Debug.Print "Erreur lors de la sauvegarde de lastwork.txt: " & Err.Description
+End Sub
+
+Private Sub LoadLastWorkSettings()
+    ' Lit le fichier lastwork.txt et applique les paramètres.
+    Dim fso As Object
+    Dim fileStream As Object
+    Dim filePath As String
+    Dim lastTitle As String, lastBiblio As String, lastPriceType As String
+    
+    On Error GoTo ErrorHandler
+    
+    Set fso = CreateObject("Scripting.FileSystemObject")
+    filePath = ThisWorkbook.Path & "\parametres\lastwork.txt"
+    
+    ' Si le fichier n'existe pas, on active le bouton "Moyen" par défaut et on sort.
+    If Not fso.FileExists(filePath) Then
+        ToggleButton_moy.value = True
+        Exit Sub
+    End If
+    
+    ' Ouvre le fichier en lecture.
+    Set fileStream = fso.OpenTextFile(filePath, 1)
+    
+    ' Lit les valeurs sauvegardées.
+    If Not fileStream.AtEndOfStream Then lastTitle = fileStream.ReadLine
+    If Not fileStream.AtEndOfStream Then lastBiblio = fileStream.ReadLine
+    If Not fileStream.AtEndOfStream Then lastPriceType = fileStream.ReadLine
+    
+    fileStream.Close
+    
+    ' Applique les valeurs lues aux contrôles du formulaire.
+    SetComboBoxValue Me.ComboBox1, lastTitle
+    SetComboBoxValue Me.Biblio, lastBiblio
+    
+    Select Case lastPriceType
+        Case "Minimum"
+            UpdatePriceTypeSelection "min"
+        Case "Moyen"
+            UpdatePriceTypeSelection "moy"
+        Case "Maximum"
+            UpdatePriceTypeSelection "max"
+        Case Else
+            ' Si la valeur est invalide, on met "Moyen" par défaut.
+            UpdatePriceTypeSelection "moy"
+    End Select
+    
+    Exit Sub
+    
+ErrorHandler:
+    ' En cas d'erreur de lecture, on applique la configuration par défaut.
+    Debug.Print "Erreur lors du chargement de lastwork.txt: " & Err.Description
+    ToggleButton_moy.value = True
+End Sub
+
+Private Sub SetComboBoxValue(ByRef cb As MSForms.ComboBox, ByVal valueToSet As String)
+    ' Fonction sécurisée pour définir la valeur d'une ComboBox.
+    ' Elle vérifie si la valeur existe dans la liste avant de la sélectionner.
+    Dim i As Integer
+    For i = 0 To cb.ListCount - 1
+        If cb.List(i) = valueToSet Then
+            cb.ListIndex = i
+            Exit For
+        End If
+    Next i
+End Sub
+
+
+' =================================================================================
+' == GESTION DES BOUTONS DE TYPE DE PRIX (TOGGLEBUTTONS) ==
+' =================================================================================
+
+Private Sub ToggleButton_min_Click()
+    UpdatePriceTypeSelection "min"
+End Sub
+
+Private Sub ToggleButton_moy_Click()
+    UpdatePriceTypeSelection "moy"
+End Sub
+
+Private Sub ToggleButton_max_Click()
+    UpdatePriceTypeSelection "max"
+End Sub
+
+Private Sub UpdatePriceTypeSelection(ByVal selectedButton As String)
+    Select Case selectedButton
+        Case "min"
+            If ToggleButton_min.value = False Then ToggleButton_min.value = True
+            ToggleButton_moy.value = False
+            ToggleButton_max.value = False
+        Case "moy"
+            If ToggleButton_moy.value = False Then ToggleButton_moy.value = True
+            ToggleButton_min.value = False
+            ToggleButton_max.value = False
+        Case "max"
+            If ToggleButton_max.value = False Then ToggleButton_max.value = True
+            ToggleButton_min.value = False
+            ToggleButton_moy.value = False
+    End Select
+End Sub
+
+Public Function GetSelectedPriceType() As String
+    If ToggleButton_min.value = True Then
+        GetSelectedPriceType = "Minimum"
+    ElseIf ToggleButton_moy.value = True Then
+        GetSelectedPriceType = "Moyen"
+    ElseIf ToggleButton_max.value = True Then
+        GetSelectedPriceType = "Maximum"
+    Else
+        GetSelectedPriceType = "Moyen"
+    End If
+End Function
+
+
+' =================================================================================
+' == AUTRES PROCÉDURES DU FORMULAIRE ==
+' =================================================================================
+
+Private Sub LoadTitlesFromFile()
+    Dim fso As Object, fileStream As Object, filePath As String, lineFromFile As String
+    Set fso = CreateObject("Scripting.FileSystemObject")
+    filePath = ThisWorkbook.Path & "\parametres\title.txt"
+    If fso.FileExists(filePath) Then
+        Set fileStream = fso.OpenTextFile(filePath, 1)
+        Me.ComboBox1.Clear
+        Do While Not fileStream.AtEndOfStream
+            lineFromFile = fileStream.ReadLine
+            If Trim(lineFromFile) <> "" Then Me.ComboBox1.AddItem Trim(lineFromFile)
+        Loop
+        fileStream.Close
+    Else
+        MsgBox "Le fichier 'title.txt' est introuvable.", vbCritical, "Erreur Fichier"
+    End If
+End Sub
+
+Private Sub LoadLibrariesFromServer()
+    Dim http As Object, url As String, response As String
+    On Error GoTo ErrorHandler
+    ' *** UTILISE LA CONSTANTE DE MODULE1 ***
+    url = SERVER_BASE_URL & "/libraries"
+    Set http = CreateObject("MSXML2.XMLHTTP.6.0")
+    http.Open "GET", url, False
+    http.send
+    If http.Status = 200 Then
+        response = http.responseText
+        Dim libList As String
+        libList = Mid(response, InStr(response, "[") + 1, InStr(response, "]") - InStr(response, "[") - 1)
+        libList = Replace(libList, """", "")
+        Dim libraries() As String
+        libraries = Split(libList, ",")
+        Me.Biblio.Clear
+        Dim lib As Variant
+        For Each lib In libraries
+            Me.Biblio.AddItem Trim(lib)
+        Next lib
+    Else
+        MsgBox "Impossible de charger la liste des bibliothèques.", vbCritical, "Erreur Serveur"
+    End If
+    Exit Sub
+ErrorHandler:
+    MsgBox "Erreur de connexion lors de la récupération des bibliothèques.", vbCritical, "Erreur Connexion"
+End Sub
+
+Private Sub Titre_Click()
+    If Me.ComboBox1.value = "" Then
+        MsgBox "Veuillez sélectionner un titre dans la liste.", vbExclamation
+        Exit Sub
+    End If
+    AjouterTitreOuvrage Me.ComboBox1.value
+End Sub
+
+Private Sub Total_Click()
+    AjouterLigneTotal
+End Sub
+
+Private Sub RECAP_Click()
+    CreerRecapitulatif
+End Sub
+
