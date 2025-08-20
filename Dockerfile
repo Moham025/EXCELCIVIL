@@ -7,7 +7,7 @@ WORKDIR /code
 # Copier le fichier des dépendances et les installer
 COPY ./requirements.txt /code/requirements.txt
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
-
+RUN mkdir -p /tmp/cache && chmod 777 /tmp/cache
 # Copier tout le reste de votre code
 COPY . /code/
 
