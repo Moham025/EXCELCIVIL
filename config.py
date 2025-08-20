@@ -20,7 +20,7 @@ PATHS = {
     'base_dir': Path(__file__).resolve().parent,
     'bibliotheque': Path(__file__).resolve().parent / "BIBLIOTHEQUE",
     'dictionary': Path(__file__).resolve().parent / 'technical_dictionary.json',
-    'cache': Path(__file__).resolve().parent / "cache",
+    'cache': Path('/tmp/cache'), # Changed from '/code/cache'
     'parametres': Path(__file__).resolve().parent / "parametres",
     'last_work': Path(__file__).resolve().parent / "parametres" / "lastwork.txt"
 }
