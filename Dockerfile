@@ -1,5 +1,5 @@
 # Utiliser une image Python officielle
-FROM docker.io/library/python:3.10-slim
+FROM docker.io/library/python:3.11-slim
 
 # Définir le répertoire de travail dans le conteneur
 WORKDIR /code
