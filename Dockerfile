@@ -13,6 +13,6 @@ COPY . /code/
 
 # Indiquer que l'application écoutera sur le port 7860 (port par défaut de HF Spaces)
 EXPOSE 7860
-
+ENV SENTENCE_TRANSFORMERS_HOME=/tmp
 # La commande pour démarrer votre application avec Gunicorn
 CMD ["gunicorn", "--bind", "0.0.0.0:7860", "app:app"]
