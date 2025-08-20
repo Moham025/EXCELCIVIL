@@ -1,0 +1,985 @@
+﻿Groupe 1 : Bâtiments et Infrastructures Sportives;;;;;
+Code;Désignation/Caractéristiques;Conditionnement;Minimum;Moyen;Maximum
+03.1.1;BATIMENT NEUF;;;;
+03.1.1.1;INSTALLATION GENERALE DE CHANTIER;;;;
+03.1.1.1.0.0.001;Installation de chantier /Amenée et repli du matériel;Ensemble;nd;nd;nd
+03.1.1.1.0.0.002;Installation de chantier/Amenée et repli du matériel comprenant préparation des surfaces, construction de bureaux de chantier équipé, clôture provisoire, panneau de chantier, branchement provisoire eau et électricité, frais divers;Ensemble;nd;nd;nd
+03.1.1.1.0.0.003;Panneaux de chantier structure métallique;m²;45 940;48 620;52 500
+03.1.1.1.0.0.004;Panneaux de chantier structure bois;m²;35 000;39 240;45 000
+03.1.1.2;TRAVAUX PREPARATOIRES ET TERRASSEMENT;;;;
+03.1.1.2.0.0.001;Abattage d'arbres de circonférence sup à 1m mesuré à 1m du sol;Unité;35 000;38 350;42 000
+03.1.1.2.0.0.002;Débroussaillage manuel;m²;450;465;500
+03.1.1.2.0.0.003;Décapage et nivellement;m²;1 300;1 350;1 450
+03.1.1.2.0.0.004;Fouille en puits  pour semelles isolées;m³;5 250;5 665;6 000
+03.1.1.2.0.0.005;Fouille en rigole pour semelles filantes;m³;4 500;4 750;5 000
+03.1.1.2.0.0.006;Implantation de l'ouvrage à l'aide d'un appareil topo;m²;3 500;3 835;4 000
+03.1.1.2.0.0.007;Implantation de l'ouvrage en élévation à l'aide d'un appareil topo;ml;12 500;13 750;15 000
+03.1.1.2.0.0.008;Nivellement mécanique sans apport de terre;m²;5 000;5 250;5 500
+03.1.1.2.0.0.009;Nivellement mécanique avec apport de terre;m²;12 500;12 750;13 000
+03.1.1.2.0.0.010;Remblai d'apport latéritique compacté à 95% de l'optimum proctor modifié;m³;10 000;10 915;12 000
+03.1.1.2.0.0.011;Remblai hydraulique;m³;11 000;11 665;12 000
+03.1.1.2.0.0.012;Remblai sans apport latéritique compacté;m³;3 000;3 210;3 500
+03.1.1.3.1;BATIMENT SIMPLE A TOITURE LEGERE (Ouvrages organisés et équipés ne comportant pas de superposition d’éléments.)  : ECOLE, CSPS, LOGEMENT, LATRINE, BATIMENT ADMINISTRATIF, ETC.;;;;
+03.1.1.3.1.0.001;Barbotine dans les fouilles;m²;3 500;3 760;4 000
+03.1.1.3.1.0.002;Béton armé dosé à 350 kg/m³ pour amorces de poteaux;m³;165 000;187 500;197 917
+03.1.1.3.1.0.003;Béton armé dosé à 350 kg/m³ pour chaînage bas;m³;165 000;187 500;197 917
+03.1.1.3.1.0.004;Béton armé dosé à 350 kg/m³ pour semelles filantes;m³;165 000;187 500;197 917
+03.1.1.3.1.0.005;Béton armé dosé à 350 kg/m³ pour semelles isolées;m³;165 000;187 500;197 917
+03.1.1.3.1.0.006;Béton armé hydrofuge dosé à 400 kg/m³ pour semelles;m³;220 000;234 165;250 000
+03.1.1.3.1.0.007;Béton cyclopéen dosé à 250 kg/m³ pour fondation;m³;105 000;108 335;115 000
+03.1.1.3.1.0.008;Béton cyclopéen dosé à 300 kg/m³ pour fondation;m³;120 000;123 335;130 000
+03.1.1.3.1.0.009;Béton de propreté dosé à 150 kg/m³;m³;59 000;61 835;65 000
+03.1.1.3.1.0.010;Béton légèrement armé pour dallage dosé à 300 kg/m³ et socles y compris chape lisse;m³;155 000;164 165;170 000
+03.1.1.3.1.0.012;Fourniture et pose film polyane sous dallage ép. 200 microns;m²;1 750;1 875;2 000
+03.1.1.3.1.0.013;Maçonnerie en agglos pleins de 10x20x40 cm confectionné manuellement;m²;4 500;4 710;5 000
+03.1.1.3.1.0.014;Maçonnerie en agglos pleins de 15x20x40 cm confectionné manuellement;m²;8 500;8 915;9 500
+03.1.1.3.1.0.015;Maçonnerie en agglos pleins de 20x20x40 cm confectionné manuellement;m²;9 000;9 415;10 000
+03.1.1.3.1.0.016;Maçonnerie en agglos pleins de 10x20x40 cm confectionné mécaniquement;m²;8 750;9 165;9 750
+03.1.1.3.1.0.017;Maçonnerie en agglos pleins de 15x20x40 cm confectionné mécaniquement;m²;10 000;10 415;11 000
+03.1.1.3.1.0.018;Maçonnerie en agglos pleins de 20x20x40 cm confectionné mécaniquement;m²;11 000;11 415;12 000
+03.1.1.3.2;BATIMENT COMPLEXE (Ouvrages complexes, soit du fait de jonction ou de superposition d’éléments, soit du fait particulier de la composition de la structure, des aménagements, des équipements) : BATIMENT ADMINISTRATIF,  SALLE POLYVALENTE, INFRASTRUCTURES UNIVERSITAIRES, HOSPITALIER, SPORTIVE ETC.;;;;
+03.1.1.3.2.0.001;Barbotine dans les fouilles;m²;3 500;3 760;4 000
+03.1.1.3.2.0.002;Béton armé dosé à 350 kg/m³ pour amorces de poteaux;m³;187 500;197 915;215 000
+03.1.1.3.2.0.003;Béton armé dosé à 350 kg/m³ pour chaînage bas;m³;187 500;197 915;215 000
+03.1.1.3.2.0.004;Béton armé dosé à 350 kg/m³ pour semelles filantes;m³;187 500;197 915;215 000
+03.1.1.3.2.0.005;Béton armé dosé à 350 kg/m³ pour semelles isolées;m³;187 500;197 915;215 000
+03.1.1.3.2.0.006;Béton armé hydrofuge dosé à 400 kg/m³ pour semelles;m³;210 000;227 145;240 000
+03.1.1.3.2.0.007;Béton de propreté dosé à 150 kg/m³;m³;59 000;62 285;65 000
+03.1.1.3.2.0.008;Béton légèrement armé pour dallage dosé à 300 kg/m³ et socles d'épaisseur 10 cm y compris chape incorporée et bouchardée;m³;155 000;165 000;170 000
+03.1.1.3.2.0.011;Fourniture et pose film polyane sous dallage ép. 200 microns;m²;1 750;1 895;2 000
+03.1.1.3.2.0.012;Maçonnerie en agglos pleins de 10x20x40 cm confectionné manuellement;m²;5 000;5 210;5 500
+03.1.1.3.2.0.013;Maçonnerie en agglos pleins de 15x20x40 cm confectionné manuellement;m²;8 500;9 000;9 500
+03.1.1.3.2.0.014;Maçonnerie en agglos pleins de 20x20x40 cm confectionné manuellement;m²;9 000;9 415;10 000
+03.1.1.3.2.0.015;Maçonnerie en agglos pleins de 10x20x40 cm confectionné mécaniquement;m²;8 500;9 000;9 500
+03.1.1.3.2.0.017;Maçonnerie en agglos pleins de 20x20x40 cm confectionné mécaniquement;m²;11 000;11 500;12 000
+03.1.1.3.2.0.018;Traitement anti-termites y compris film polyéthylène ép. 200 microns posé par thermolaquage;m²;3 000;3 105;3 250
+03.1.1.4;SUPERSTRUCTURES;;;;
+03.1.1.4.1;BATIMENT SIMPLE A TOITURE LEGERE (Ouvrages organisés et équipés ne comportant pas de superposition d’éléments.)  : ECOLE, CSPS, LOGEMENT, LATRINE, BATIMENT ADMINISTRATIF, ETC.;;;;
+03.1.1.4.1.0.001;Béton  armé dosé à 350 kg/m³ pour chainage;m³;187 500;197 915;215 000
+03.1.1.4.1.0.002;Béton armé dosé à 300 kg/m³  pour appuis de baies;m³;155 000;166 000;170 000
+03.1.1.4.1.0.003;Béton armé dosé à 300 kg/m³  pour marches d'accès et emmarchement;m³;155 000;166 000;170 000
+03.1.1.4.1.0.004;Béton armé dosé à 350 kg/m³  pour  couronnement;m³;187 500;197 915;215 000
+03.1.1.4.1.0.005;Béton armé dosé à 350 kg/m³  pour acrotère (appui de tôle);m³;187 500;197 915;215 000
+03.1.1.4.1.0.006;Béton armé dosé à 350 kg/m³  pour chainage d'arase;m³;187 500;197 915;215 000
+03.1.1.4.1.0.007;Béton armé dosé à 350 kg/m³  pour élément décoratif;m³;187 500;197 915;215 000
+03.1.1.4.1.0.008;Béton armé dosé à 350 kg/m³  pour linteaux;m³;187 500;197 915;215 000
+03.1.1.4.1.0.009;Béton armé dosé à 350 kg/m³  pour poteaux;m³;187 500;197 915;215 000
+03.1.1.4.1.0.010;Béton armé dosé à 350 kg/m³  pour poutres;m³;187 500;197 915;215 000
+03.1.1.4.1.0.011;Béton armé dosé à 350 kg/m³  pour raidisseurs;m³;187 500;197 915;215 000
+03.1.1.4.1.0.012;Béton armé dosé à 350 kg/m³  pour chainage rampant;m³;187 500;197 915;215 000
+03.1.1.4.1.0.013;Béton non armé dosé à 300 kg/m³ pour estrade et marche d'entrée;m³;155 000;166 000;170 000
+03.1.1.4.1.0.014;Béton non armé dosé à 300 kg/m³ pour rampe d'accès;m³;155 000;166 000;170 000
+03.1.1.4.1.0.015;Béton armé hydrofuge dosé à 400kg/m³;m³;210 000;222 000;240 000
+03.1.1.4.1.0.016;Chape lisse;m²;10 000;11 000;12 000
+03.1.1.4.1.0.018;Claustras de ventilation munis de grillage anti insectes;Unité;1 250;1 370;1 500
+03.1.1.4.1.0.019;Enduit lisse dosé à 600kg/m³ pour tableau d'épaisseur 6 cm y compris grillage poulailler;m²;5 900;5 980;6 000
+03.1.1.4.1.0.020;Enduit extérieur d'esthétique dosé à 400kg/m³ d'épaisseur 2,50cm sur la façade;m²;5 300;5 740;6 000
+03.1.1.4.1.0.021;Enduit extérieur taloché dosé à 400kg/m³ d'épaisseur 2,50cm;m²;5 300;5 740;6 000
+03.1.1.4.1.0.022;Enduit intérieur bicouche dosé à 400kg/m³ d'épaisseur 4,00cm y compris raccordement;m²;5 300;5 740;6 000
+03.1.1.4.1.0.023;Enduit intérieur lissé dosé à 400kg/m³ d'épaisseur 2,50cm;m²;5 300;5 740;6 000
+03.1.1.4.1.0.024;Enduit intérieur dosé à 400kg/m³ d'épaisseur 2,50cm y compris raccordement et calfeutrement;m²;5 300;5 740;6 000
+03.1.1.4.1.0.025;Enduit tyrolien;m²;2 500;2 750;3 000
+03.1.1.4.1.0.026;Enduits tyroliens au ciment blanc écrasés;m²;2 500;2 750;3 000
+03.1.1.4.1.0.027;Fourniture et pose de polystyrène de 0,10 cm pour joint de dilatation;m²;2 500;2 750;3 000
+03.1.1.4.1.0.028;Fourniture et pose de polystyrène de 0,10 cm pour joint de dilatation avec couvre joint en alu;ml;1 250;1 370;1 500
+03.1.1.4.1.0.029;Fourniture et pose de polystyrène de 2 cm pour joint de dilation;m²;5 000;5 250;5 500
+03.1.1.4.1.0.030;Fourniture et pose de polystyrène de 2 cm pour joint de dilatation avec couvre joint en alu;ml;1 600;1 720;1 850
+03.1.1.4.1.0.031;Fourniture et pose de polystyrène de 2,5 cm pour joint de dilatation avec couvre joint en alu;ml;4 100;4 220;4 350
+03.1.1.4.1.0.032;Fourniture et pose de polystyrène de 2,5 cm  pour joint de dilation;m²;10 000;10 250;10 500
+03.1.1.4.1.0.033;Lit de sable sous dallage d'une épaisseur de 10 cm;m²;2 250;2 400;2 500
+03.1.1.4.1.0.034;Lit de sable sous dallage d'une épaisseur de 5 cm;m²;1 125;1 200;1 250
+03.1.1.4.1.0.036;Maçonnerie d'agglos creux de 15x20x40 cm confectionné manuellement;m²;8 250;8 650;9 000
+03.1.1.4.1.0.037;Maçonnerie d'agglos creux de 20x20x40 cm confectionné manuellement;m²;10 250;10 650;11 000
+03.1.1.4.1.0.038;Maçonnerie d'agglos creux de 10x20x40 cm confectionné mécaniquement;m²;7 250;7 650;8 000
+03.1.1.4.1.0.039;Maçonnerie d'agglos creux de 15x20x40 cm confectionné mécaniquement;m²;10 250;10 650;11 000
+03.1.1.4.1.0.040;Maçonnerie d'agglos creux de 20x20x40 cm confectionné mécaniquement;m²;13 250;13 650;14 000
+03.1.1.4.1.0.041;Raccordement et calfeutrement des ouvertures;m²;15 250;15 650;16 000
+03.1.1.4.1.0.042;Maçonnerie en brique pleine de terre cuite de 22x11x5 cm;m²;15 000;15 465;16 000
+03.1.1.4.1.0.043;Maçonnerie en brique pleine de terre cuite de 30x14x6 cm;m²;16 000;16 800;17 500
+03.1.1.4.1.0.044;Maçonnerie en brique pleine de terre cuite de 30x14x7 cm;m²;16 000;16 800;17 500
+03.1.1.4.1.0.045;Maçonnerie en brique pleine de terre cuite de 30x14x8 cm;m²;17 000;18 465;20 000
+03.1.1.4.1.0.046;Revêtement en briquette céramique 22x5x2 cm;m²;21 000;22 965;25 000
+03.1.1.4.1.0.047;Revêtement en plaquette céramique 22x11x2 cm;m²;21 000;22 965;25 000
+03.1.1.4.1.0.048;Revêtement en briquette de terre cuite 22x5x2 cm;m²;21 000;22 965;25 000
+03.1.1.4.1.0.049;Maçonnerie en brique pleine céramique de 30x14x8 cm;m²;21 000;22 965;25 000
+03.1.1.4.1.0.050;Maçonnerie en bloc latéritique taillé (BLT) de 40x20x15 cm pour mur porteur;m²;12 500;13 750;15 000
+03.1.1.4.1.0.051;Maçonnerie en bloc latéritique taillé (BLT) de 40x15x15 cm pour mur porteur;m²;12 500;13 750;15 000
+03.1.1.4.1.0.052;Maçonnerie en bloc latéritique taillé (BLT) de 30x20x15 cm pour mur porteur;m²;12 500;13 750;15 000
+03.1.1.4.1.0.053;Maçonnerie en bloc latéritique taillé (BLT) de 30x15x15 cm pour mur remplissage;m²;12 500;13 750;15 000
+03.1.1.4.2;BATIMENT COMPLEXE (Ouvrages complexes, soit du fait de jonction ou de superposition d’éléments, soit du fait particulier de la composition de la structure, des aménagements, des équipements) : BATIMENT ADMINISTRATIF,  SALLE POLYVALENTE, INFRASTRUCTURES UNIVERSITAIRES, HOSPITALIER, SPORTIVE ETC.;;;;
+03.1.1.4.2.0.001;Béton  armé dosé à 350kg/m³ pour chainage;m³;187 500;197 915;215 000
+03.1.1.4.2.0.002;Béton armé dosé à 300 kg/m³ pour appuis de baies;m³;187 500;197 915;215 000
+03.1.1.4.2.0.003;Béton armé dosé à 350 kg/m³ pour  couronnement;m³;187 500;197 915;215 000
+03.1.1.4.2.0.004;Béton armé dosé à 350 kg/m³ pour chainage d'arase;m³;187 500;197 915;215 000
+03.1.1.4.2.0.005;Béton armé dosé à 350 kg/m³ pour élément décoratif;m³;187 500;197 915;215 000
+03.1.1.4.2.0.006;Béton armé dosé à 350 kg/m³ pour linteaux;m³;187 500;197 915;215 000
+03.1.1.4.2.0.007;Béton armé dosé à 350 kg/m³ pour poteaux;m³;187 500;197 915;215 000
+03.1.1.4.2.0.008;Béton armé dosé à 350 kg/m³ pour poutres;m³;187 500;197 915;215 000
+03.1.1.4.2.0.009;Béton armé dosé à 350 kg/m³ pour raidisseurs;m³;187 500;197 915;215 000
+03.1.1.4.2.0.010;Béton armé pour acrotère (appui de tôle)dosé à 350 kg/m³;m³;187 500;197 915;215 000
+03.1.1.4.2.0.011;Béton armé pour chainage rampant dosé à 350kg/m³;m³;187 500;197 915;215 000
+03.1.1.4.2.0.012;Béton armé pour dalle de compression dosé à 350kg/m³;m³;187 500;197 915;215 000
+03.1.1.4.2.0.013;Béton armé pour dalle pleine dosé à 350kg/m³;m³;187 500;197 915;215 000
+03.1.1.4.2.0.014;Béton armé pour escaliers dosé à 350kg/m³;m³;187 500;197 915;215 000
+03.1.1.4.2.0.016;Béton légèrement armé pour estrade dosé à 300kg/m³;m³;155 000;164 165;170 000
+03.1.1.4.2.0.017;Béton non armé dosé à 300 kg/m³ pour estrade et marche d'entrée;m³;130 000;136 250;140 000
+03.1.1.4.2.0.018;Béton non armé pour marche et rampe dosé à 300kg/m³;m³;130 000;136 250;140 000
+03.1.1.4.2.0.019;Béton armé hydrofuge dosé à 400kg/m³;m³;210 000;221 665;240 000
+03.1.1.4.2.0.020;Chape lisse et bouchardé;m²;6 000;6 415;7 000
+03.1.1.4.2.0.022;Claustras de ventilation munis de grillage anti insectes;unité;1 250;1 375;1 500
+03.1.1.4.2.0.023;Enduit  lisse dosé à 600kg/m³ en sous face plancher;m²;5 900;5 980;6 000
+03.1.1.4.2.0.024;Enduit  lisse dosé à 600kg/m³ pour tableau noir d'épaisseur 6 cm y compris grillage poulailler;m²;5 900;6 080;6 500
+03.1.1.4.2.0.025;Enduit extérieur d'esthétique dosé à 400kg/m³ d'épaisseur 2,50 cm sur la façade;m²;5 300;5 740;6 000
+03.1.1.4.2.0.026;Enduit extérieur taloché dosé à 400kg/m³ d'épaisseur 2,50 cm;m²;5 300;5 740;6 000
+03.1.1.4.2.0.027;Enduit intérieur bicouche  dosé à 400kg/m³ d'épaisseur 4,00 cm y compris raccordement;m²;5 300;5 740;6 000
+03.1.1.4.2.0.028;Enduit intérieur lissé dosé à 400kg/m³ d'épaisseur 2,50 cm;m²;5 300;5 740;6 000
+03.1.1.4.2.0.029;Enduit intérieur dosé à 400kg/m³ d'épaisseur 2,50 cm y compris raccordement et calfeutrement;m²;5 300;5 740;6 000
+03.1.1.4.2.0.030;Enduits tyroliens au ciment blanc écrasés;m²;2 500;2 750;3 000
+03.1.1.4.2.0.031;Fourniture et pose de polystyrène de 0,10 cm pour joint de dilatation;m²;2 500;2 750;3 000
+03.1.1.4.2.0.032;Fourniture et pose de polystyrène de 0,10 cm pour joint de dilatation avec couvre joint en alu;ml;1 250;1 370;1 500
+03.1.1.4.2.0.033;Fourniture et pose de polystyrène de 2 cm pour joint de dilation;m²;5 000;5 250;5 500
+03.1.1.4.2.0.034;Fourniture et pose de polystyrène de 2 cm pour joint de dilatation avec couvre joint en alu;ml;1 600;1 720;1 850
+03.1.1.4.2.0.035;Fourniture et pose de polystyrène de 2,5 cm pour joint de dilatation avec couvre joint en alu;ml;4 100;4 220;4 350
+03.1.1.4.2.0.036;Fourniture et pose de polystyrène de 2,5 cm  pour joint de dilation;m²;10 000;10 250;10 500
+03.1.1.4.2.0.037;Lit de sable sous dalle d'une épaisseur de 5 cm;m²;1 125;1 200;1 250
+03.1.1.4.2.0.038;Maçonnerie d'agglos creux de 10x20x40 cm confectionné manuellement;m²;5 250;5 650;6 000
+03.1.1.4.2.0.040;Maçonnerie d'agglos creux de 20x20x40 cm confectionné manuellement;m²;10 250;10 650;11 000
+03.1.1.4.2.0.041;Maçonnerie d'agglos creux de 10x20x40 cm confectionné mécaniquement;m²;7 250;7 650;8 000
+03.1.1.4.2.0.042;Maçonnerie d'agglos creux de 15x20x40 cm confectionné mécaniquement;m²;10 250;10 650;11 000
+03.1.1.4.2.0.043;Maçonnerie d'agglos creux de 20x20x40 cm  confectionné mécaniquement;m²;13 250;13 650;14 000
+03.1.1.4.2.0.044;Maçonnerie en brique pleine de terre cuite de 22x11x5 cm;m²;15 000;15 465;16 000
+03.1.1.4.2.0.045;Maçonnerie en brique pleine de terre cuite de 30x14x6 cm;m²;16 000;16 800;17 500
+03.1.1.4.2.0.046;Maçonnerie en brique pleine de terre cuite de 30x14x7 cm;m²;16 000;16 800;17 500
+03.1.1.4.2.0.047;Maçonnerie en brique pleine de terre cuite de 30x14x8 cm;m²;17 000;18 465;20 000
+03.1.1.4.2.0.048;Revêtement en briquette céramique 22x5x2 cm;m²;21 000;22 965;25 000
+03.1.1.4.2.0.049;Revêtement en plaquette céramique 22x11x2 cm;m²;21 000;22 965;25 000
+03.1.1.4.2.0.050;Revêtement en briquette de terre cuite 22x5x2 cm;m²;21 000;22 965;25 000
+03.1.1.4.2.0.051;Maçonnerie en brique pleine céramique de 30x14x8 cm;m²;21 000;22 965;25 000
+03.1.1.4.2.0.052;Maçonnerie en bloc latéritique taillé (BLT) de 40x20x15 cm pour mur porteur;m²;12 500;13 750;15 000
+03.1.1.4.2.0.053;Maçonnerie en bloc latéritique taillé (BLT) de 40x15x15 cm pour mur porteur;m²;12 500;13 750;15 000
+03.1.1.4.2.0.054;Maçonnerie en bloc latéritique taillé (BLT) de 30x20x15 cm pour mur porteur;m²;12 500;13 750;15 000
+03.1.1.4.2.0.055;Maçonnerie en bloc latéritique taillé (BLT) de 30x15x15 cm pour mur remplissage;m²;12 500;13 750;15 000
+03.1.1.4.2.0.056;Maçonnerie en bloc latéritique taillé (BLT) de 20x15x15 cm pour mur remplissage;m²;12 500;13 750;15 000
+03.1.1.4.2.0.057;Plancher en hourdis corps creux de 15+5 cm;m²;42 500;45 050;48 000
+03.1.1.4.2.0.059;Plancher corps creux de 15+5 cm  en hourdis confectionné mécaniquement;m²;62 500;66 200;72 000
+03.1.1.4.2.0.060;Plancher corps creux de 16+4 cm en hourdis confectionné mécaniquement;m²;62 500;66 200;72 000
+03.1.1.4.2.0.061;Raccordement et calfeutrement des ouvertures;m²;10 000;10 400;11 000
+03.1.1.5;MENUISERIE;;;;
+03.1.1.5.1;MENUISERIE METALLIQUE;;;;
+03.1.1.5.1.0.001;Fourniture et pose de panne en IPE 80 traité à l'anti rouille;ml;11 500;12 335;13 000
+03.1.1.5.1.0.002;Fourniture et pose de panne en IPE 80 traité à l'anti rouille;kg;2 500;2 610;2 700
+03.1.1.5.1.0.003;Fourniture et pose de panne en IPE 100 traité de l'antirouille;ml;13 500;14 165;15 000
+03.1.1.5.1.0.004;Fourniture et pose de panne en IPE 100 traité de l'antirouille;kg;2 500;2 610;2 700
+03.1.1.5.1.0.005;Fourniture et pose de panne en IPE 120 traité à l'anti rouille;ml;16 000;16 665;17 500
+03.1.1.5.1.0.006;Fourniture et pose de panne en IPE 120 traité à l'anti rouille;kg;3 250;3 360;3 450
+03.1.1.5.1.0.007;Fourniture et pose de panne en IPE 140  traité à l'antirouille;ml;19 500;20 165;21 000
+03.1.1.5.1.0.008;Fourniture et pose de panne en IPE 140 traité à l'antirouille;kg;3 750;3 860;3 950
+03.1.1.5.1.0.009;Fourniture et pose de panne en IPN 80  traité à l'anti rouille;ml;10 000;10 835;11 500
+03.1.1.5.1.0.010;Fourniture et pose de panne en IPN 80 traité à l'anti rouille;kg;2 375;2 485;2 575
+03.1.1.5.1.0.011;Fourniture et pose de panne en IPN 100  traité de l'antirouille;ml;10 500;11 335;12 000
+03.1.1.5.1.0.012;Fourniture et pose de panne en IPN 100 traité de l'antirouille;kg;2 625;2 735;2 825
+03.1.1.5.1.0.013;Fourniture et pose de panne en IPN 120  traité à l'anti rouille;ml;11 250;12 085;12 750
+03.1.1.5.1.0.014;Fourniture et pose de panne en IPN 120 traité à l'anti rouille;kg;3 375;3 485;3 575
+03.1.1.5.1.0.015;Fourniture et pose de panne en IPN 140  traité à l'antirouille;ml;12 000;12 835;13 500
+03.1.1.5.1.0.016;Fourniture et pose de panne en IPN 140 traité à l'antirouille;kg;3 625;3 735;3 825
+03.1.1.5.1.0.017;Fourniture et pose de panne en tube métallique rectangulaire de 60x60 cm d'épaisseur 3 mm traité de l'antirouille;ml;4 800;5 100;5 500
+03.1.1.5.1.0.018;Fourniture et pose de panne en tube métallique rectangulaire de 100x60 d'épaisseur 3 mm traité de l'antirouille;ml;6 050;6 350;6 750
+03.1.1.5.1.0.020;Fourniture et pose de panne en tube métallique rectangulaire de 60x80 d'épaisseur 3 mm  traité de l'antirouille;ml;7 150;7 450;7 850
+03.1.1.5.1.0.021;Fourniture et pose de grille de protection métallique  en tube carré de 30x30 d'épaisseur 10/10ème;ml;5 150;5 450;5 850
+03.1.1.5.1.0.022;Fourniture et pose de grille de protection métallique 60x60 en tube carré de 30x30 d'épaisseur 10/10ème;Unité;10 000;11 000;12 000
+03.1.1.5.1.0.023;Fourniture et pose de grille de protection métallique 60x80 en tube carré de 30x30 d'épaisseur 10/10ème;Unité;10 250;11 250;12 250
+03.1.1.5.1.0.024;Fourniture et pose de grille de protection métallique 80x80 en tube carré de 30x30 d'épaisseur 10/10ème;Unité;10 750;11 750;12 750
+03.1.1.5.1.0.025;Fourniture et pose de grille de protection métallique 120x120 en tube carré de 30x30 d'épaisseur 10/10ème;Unité;11 750;12 750;13 750
+03.1.1.5.1.0.026;Fourniture et pose de grille de protection métallique 120x150 en tube carré de 30x30 d'épaisseur 10/10ème;Unité;13 000;14 000;15 000
+03.1.1.5.1.0.027;Fourniture et pose de grille de protection métallique 340x40 en tube carré de 30x30 d'épaisseur 10/10ème;Unité;10 750;11 750;12 750
+03.1.1.5.1.0.028;Fourniture et pose de grille de protection métallique en tube carré de 30x30 d'épaisseur 15/10ème :;ml;5 400;5 700;6 100
+03.1.1.5.1.0.029;Fourniture et pose de grille de protection métallique 60x60 en tube carré de 30x30 d'épaisseur 15/10ème;Unité;10 500;11 390;12 350
+03.1.1.5.1.0.030;Fourniture et pose de grille de protection métallique 60x80 en tube carré de 30x30 d'épaisseur 15/10ème;Unité;11 250;12 140;13 100
+03.1.1.5.1.0.031;Fourniture et pose de grille de protection métallique 80x80 en tube carré de 30x30 d'épaisseur 15/10ème;Unité;12 250;13 140;14 100
+03.1.1.5.1.0.032;Fourniture et pose de grille de protection métallique 120x120 en tube carré de 30x30 d'épaisseur 15/10ème;Unité;13 750;14 640;15 600
+03.1.1.5.1.0.034;Fourniture et pose de grille de protection métallique 340x40 en tube carré de 30x30 d'épaisseur 15/10ème;Unité;10 750;11 640;12 600
+03.1.1.5.1.0.035;Fourniture et pose de grille de protection métallique  en tube carré de 27x40 d'épaisseur 10/10ème;ml;4 900;5 200;5 600
+03.1.1.5.1.0.036;Fourniture et pose de grille de protection métallique 60x60 en tube carré de 27x40 d'épaisseur 10/10ème;Unité;8 000;8 565;9 250
+03.1.1.5.1.0.037;Fourniture et pose de grille de protection métallique 60x80 en tube carré de 27x40 d'épaisseur 10/10ème;Unité;8 250;8 815;9 500
+03.1.1.5.1.0.038;Fourniture et pose de grille de protection métallique 80x80 en tube carré de 27x40 d'épaisseur 10/10ème;Unité;8 500;9 065;9 750
+03.1.1.5.1.0.039;Fourniture et pose de grille de protection métallique 120x120 en tube carré de 27x40 d'épaisseur 10/10ème;Unité;9 750;10 315;11 000
+03.1.1.5.1.0.040;Fourniture et pose de grille de protection métallique 120x150 en tube carré de 27x40 d'épaisseur 10/10ème;Unité;11 000;11 565;12 250
+03.1.1.5.1.0.041;Fourniture et pose grille de protection métallique 340x40  en tube carré de 27x40 d'épaisseur 10/10ème;Unité;7 500;8 065;8 750
+03.1.1.5.1.0.042;Fourniture et pose de grille de protection métallique  en tube carré de 27x40 d'épaisseur 15/10ème;ml;5 150;5 450;5 850
+03.1.1.5.1.0.043;Fourniture et pose de grille de protection métallique 60x60 en tube carré de 27x40 d'épaisseur 15/10ème;Unité;9 250;9 815;10 500
+03.1.1.5.1.0.044;Fourniture et pose de grille de protection métallique 60x80 en tube carré de 27x40 d'épaisseur 15/10ème;Unité;9 500;10 065;10 750
+03.1.1.5.1.0.045;Fourniture et pose de grille de protection métallique 80x80 en tube carré de 27x40 d'épaisseur 15/10ème;Unité;9 750;10 315;11 000
+03.1.1.5.1.0.046;Fourniture et pose de grille de protection métallique 120x120 en tube carré de 27x40 d'épaisseur 15/10ème;Unité;11 000;11 565;12 250
+03.1.1.5.1.0.048;Fourniture et pose de grille de protection métallique 340x40 en tube carré de 27x40 d'épaisseur 15/10ème;Unité;8 500;9 065;9 750
+03.1.1.5.1.0.049;Fourniture et pose de fenêtre métallique persienne à lames fixes ou orientables 60x60 à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;25 000;27 500;30 000
+03.1.1.5.1.0.050;Fourniture et pose de fenêtre métallique persienne à lames fixes ou orientables 60x80  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;27 500;30 215;31 900
+03.1.1.5.1.0.051;Fourniture et pose de fenêtre métallique persienne à lames fixes 80x80  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;35 800;37 515;40 000
+03.1.1.5.1.0.052;Fourniture et pose imposte métallique persienne à lames fixes ou orientables 340x50 à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;47 000;51 710;56 600
+03.1.1.5.1.0.053;Fourniture et pose de fenêtre métallique persienne à lames fixes ou orientables 120x120  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;61 700;63 400;65 000
+03.1.1.5.1.0.054;Fourniture et pose de fenêtre métallique persienne à lames fixes ou orientables120x150  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;69 200;71 815;75 000
+03.1.1.5.1.0.056;Fourniture et pose de fenêtre métallique persienne avec grille de protection métallique 60x60  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;46 500;48 000;50 000
+03.1.1.5.1.0.057;Fourniture et pose de fenêtre métallique persienne avec grille de protection métallique 60x80 à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;53 300;55 850;60 000
+03.1.1.5.1.0.058;Fourniture et pose de fenêtre métallique persienne avec grille de protection métallique 80x80 à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;48 000;50 835;55 000
+03.1.1.5.1.0.059;Fourniture et pose de fenêtre métallique persienne avec grille de protection métallique 120x120 à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;80 000;83 315;86 200
+03.1.1.5.1.0.060;Fourniture et pose de fenêtre métallique persienne avec grille de protection métallique 120x150 à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;90 000;98 765;105 000
+03.1.1.5.1.0.061;Fourniture et pose de fenêtre métallique persienne avec grille de protection métallique 340x40  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;70 000;72 000;74 000
+03.1.1.5.1.0.063;Fourniture et pose de fenêtre métallique vitrée  60x80  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;55 000;56 700;60 000
+03.1.1.5.1.0.064;Fourniture et pose de fenêtre métallique vitrée  80x80  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;68 250;68 850;70 000
+03.1.1.5.1.0.065;Fourniture et pose de fenêtre métallique vitrée  120x120  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;125 000;130 000;135 000
+03.1.1.5.1.0.066;Fourniture et pose de fenêtre métallique vitrée  120x150 à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;142 000;152 635;158 400
+03.1.1.5.1.0.067;Fourniture et pose de fenêtre métallique vitrée  340x40  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;153 250;153 275;153 300
+03.1.1.5.1.0.068;Fourniture et pose de fenêtre métallique vitrée 60x60 y compris grille de protection  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;55 000;58 000;60 000
+03.1.1.5.1.0.069;Fourniture et pose de fenêtre métallique vitrée  60x80 y compris grille de protection  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;65 000;70 100;73 300
+03.1.1.5.1.0.070;Fourniture et pose de fenêtre métallique vitrée  80x80 y compris grille de protection  à lame en feuille de tôle de;Unité;85 000;89 700;92 500
+03.1.1.5.1.0.071;Fourniture et pose de fenêtre métallique vitrée  120x120 y compris grille de protection  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;150 000;157 600;162 800
+03.1.1.5.1.0.072;Fourniture et pose de fenêtre métallique vitrée  120x150 y compris grille de protection  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;215 500;220 935;230 000
+03.1.1.5.1.0.073;Fourniture et pose de fenêtre métallique vitrée  340x40 y compris grille de protection  à lame en feuille de tôle de 8/10éme et cadre H70,  y compris tous accessoires de fonctionnement et toutes sujétions;Unité;155 000;156 665;158 500
+03.1.1.5.1.0.074;Fourniture et pose de Portes métalliques persiennes de 80 x 220 y compris cadre métallique H70;Unité;87 500;90 935;92 800
+03.1.1.5.1.0.075;Fourniture et pose de Portes métalliques persiennes de 90 x 220 y compris cadre métallique H70;Unité;90 000;98 435;102 800
+03.1.1.5.1.0.076;Fourniture et pose de Portes métalliques persiennes de 120 x 220 y compris cadre métallique H70;Unité;120 000;128 435;132 800
+03.1.1.5.1.0.077;Fourniture et pose de Portes métalliques persiennes de 140 x 220 y compris cadre métallique H70;Unité;125 000;136 765;142 800
+03.1.1.5.1.0.078;Fourniture et pose de Portes métalliques persiennes faces de 150x 220 y compris cadre métallique H70;Unité;147 500;150 935;152 800
+03.1.1.5.1.0.079;Fourniture et pose de Portes métalliques pleines double faces de 80 x 220 y compris cadre métallique H70;Unité;107 500;110 100;115 000
+03.1.1.5.1.0.080;Fourniture et pose de Portes métalliques pleines double faces de 90 x 220 y compris cadre métallique H70;Unité;118 900;122 965;130 000
+03.1.1.5.1.0.082;Fourniture et pose de Portes métalliques pleines double faces de 140 x 220 y compris cadre métallique H70;Unité;162 400;166 635;175 000
+03.1.1.5.1.0.083;Fourniture et pose de Portes métalliques pleines double faces de 150x 220 y compris cadre métallique H70;Unité;173 600;176 200;180 000
+03.1.1.5.1.0.084;Fourniture et pose de Porte  métallique vitrée de 80x220 y compris cadre métallique H70;Unité;105 000;108 650;111 250
+03.1.1.5.1.0.085;Fourniture et pose de Porte  métallique vitrée de 90x220 y compris cadre métallique H70;Unité;121 200;127 985;140 000
+03.1.1.5.1.0.086;Fourniture et pose de Porte  métallique vitrée de 120x220 y compris cadre métallique H70;Unité;150 000;152 215;153 750
+03.1.1.5.1.0.087;Fourniture et pose de Porte  métallique vitrée de 140x220 y compris cadre métallique H70;Unité;170 000;173 465;175 400
+03.1.1.5.1.0.088;Fourniture et pose de Porte  métallique vitrée de 150x220 y compris cadre métallique H70;Unité;175 000;182 065;186 200
+03.1.1.5.1.0.089;Fourniture et pose de Porte grille métallique  de 80x220 y compris cadre métallique H70;Unité;77 400;79 965;85 000
+03.1.1.5.1.0.090;Fourniture et pose de Porte grille métallique  de 90x220 y compris cadre métallique H70;Unité;85 600;87 700;90 000
+03.1.1.5.1.0.091;Fourniture et pose de Porte grille métallique  de 120x220 y compris cadre métallique H70;Unité;105 600;110 615;120 000
+03.1.1.5.1.0.092;Fourniture et pose de Porte grille métallique  de 140x220 y compris cadre métallique H70;Unité;122 400;128 715;140 000
+03.1.1.5.1.0.093;Fourniture et pose de Porte grille métallique  de 150x220 y compris cadre métallique H70;Unité;131 400;138 800;145 000
+03.1.1.5.2;MENUISERIE ALUMINIUM;;;;
+03.1.1.5.2.0.002;Fourniture et pose de grille de protection alu de 100 x 60, épaisseur du profilé 1,8mm, surface anodisée et raccordement divers;Unité;35 000;38 500;40 500
+03.1.1.5.2.0.003;Fourniture et pose de grille de protection alu de 120x 120, épaisseur du profilé 1,8mm, surface anodisée et raccordement divers;Unité;47 100;48 250;50 000
+03.1.1.5.2.0.004;Fourniture et pose de grille de protection alu de 170 x 120, épaisseur du profilé 1,8mm, surface anodisée et raccordement divers;Unité;53 500;55 750;60 000
+03.1.1.5.2.0.005;Fourniture et pose de grille de protection alu de 180 x 120, épaisseur du profilé 1,8mm, surface anodisée et raccordement divers;Unité;58 200;59 200;60 000
+03.1.1.5.2.0.006;Fourniture et pose de grille de protection alu de 200 x 120, épaisseur du profilé 1,8mm, surface anodisée et raccordement divers;Unité;64 350;68 285;75 000
+03.1.1.5.2.0.007;Fourniture et pose de grille de protection alu de 210 x 120, épaisseur du profilé 1,8mm, surface anodisée et raccordement divers;Unité;80 500;83 750;90 000
+03.1.1.5.2.0.008;Fourniture et pose de grille de protection alu de 220 x 120, épaisseur du profilé 1,8mm, surface anodisée et raccordement divers;Unité;90 300;91 950;95 000
+03.1.1.5.2.0.009;Fourniture et pose de grille de protection alu de 250 x 120, épaisseur du profilé 1,8mm, surface anodisée et raccordement divers;Unité;92 800;95 600;100 000
+03.1.1.5.2.0.011;Fourniture et pose de grille de protection alu de 300 x 120, épaisseur du profilé 1,8mm, surface anodisée et raccordement divers;Unité;106 350;107 915;110 000
+03.1.1.5.2.0.012;Fourniture et pose de grille de protection alu de 385 x 120, épaisseur du profilé 1,8mm, surface anodisée et raccordement divers;Unité;114 100;118 065;125 000
+03.1.1.5.2.0.013;Fourniture et pose de fenêtre alu vitrée coulissante de 60 x 60, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;80 000;81 135;82 000
+03.1.1.5.2.0.014;Fourniture et pose de fenêtre alu vitré coulissante de 100 x 60, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;88 700;91 235;95 000
+03.1.1.5.2.0.015;Fourniture et pose de fenêtre  alu vitré coulissante  de 120x120,  épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;115 000;116 335;117 500
+03.1.1.5.2.0.016;Fourniture et pose de fenêtre alu vitré coulissante  de 170 x 120,  épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;135 000;140 735;143 700
+03.1.1.5.2.0.017;Fourniture et pose de fenêtre alu vitrée coulissante de 180x120,  épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;145 000;146 410;149 125
+03.1.1.5.2.0.018;Fourniture et pose de fenêtre alu vitré coulissante  de 200 x 120,  épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;155 000;156 965;160 000
+03.1.1.5.2.0.019;Fourniture et pose de fenêtre alu vitré coulissante  de 210 x 120,  épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;160 000;162 965;165 000
+03.1.1.5.2.0.021;Fourniture et pose de fenêtre alu vitré coulissante  de 250 x 120,  épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;169 500;171 435;175 000
+03.1.1.5.2.0.022;Fourniture et pose de fenêtre alu vitré coulissante  de 285 x 120,  épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;177 000;182 300;190 000
+03.1.1.5.2.0.023;Fourniture et pose de fenêtre alu vitré coulissante  de 300 x 120,  épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;189 125;196 675;210 000
+03.1.1.5.2.0.024;Fourniture et pose de fenêtre alu vitré coulissante  de 385 x 120,  épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;207 000;219 065;240 000
+03.1.1.5.2.0.025;Fourniture et pose de fenêtre alu vitrée coulissante de 60 x 60 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;102 000;106 385;109 900
+03.1.1.5.2.0.026;Fourniture et pose de fenêtre alu vitré coulissante de 100 x 60 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;114 000;117 335;120 000
+03.1.1.5.2.0.027;Fourniture et pose de fenêtre  alu vitré coulissante  de 120x120 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;155 650;159 415;165 000
+03.1.1.5.2.0.028;Fourniture et pose de fenêtre alu vitré coulissante  de 170 x 120 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;183 900;187 965;195 000
+03.1.1.5.2.0.030;Fourniture et pose de fenêtre alu vitré coulissante  de 200 x 120 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;239 300;242 050;245 000
+03.1.1.5.2.0.031;Fourniture et pose de fenêtre alu vitré coulissante  de 210 x 120 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;246 200;250 900;260 000
+03.1.1.5.2.0.032;Fourniture et pose de fenêtre alu vitré coulissante  de 220 x 120 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;260 000;275 715;284 150
+03.1.1.5.2.0.033;Fourniture et pose de fenêtre alu vitré coulissante  de 250 x 120 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;290 000;296 950;301 550
+03.1.1.5.2.0.034;Fourniture et pose de fenêtre alu vitré coulissante  de 285 x 120 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;315 300;318 915;325 000
+03.1.1.5.2.0.035;Fourniture et pose de fenêtre alu vitré coulissante  de 300 x 120 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;327 700;335 515;350 000
+03.1.1.5.2.0.036;Fourniture et pose de fenêtre alu vitré coulissante  de 385 x 120 y compris grille de protection, épaisseur du profilé 1,8mm, surface anodisée, vitrage antélio;Unité;342 500;358 965;390 000
+03.1.1.5.2.0.037;Fourniture et pose de Porte alu vitrée de 80x220 cm;Unité;120 000;131 100;137 500
+03.1.1.5.2.0.038;Fourniture et pose de Porte alu vitrée de 90x220 cm;Unité;135 000;143 335;147 500
+03.1.1.5.2.0.039;Fourniture et pose de Porte alu vitrée de 120x220 cm;Unité;165 000;175 665;182 500
+03.1.1.5.2.0.040;Fourniture et pose de Porte alu vitrée de 140x220 cm;Unité;198 000;204 265;207 500
+03.1.1.5.2.0.041;Fourniture et pose de Porte alu vitrée de 150x220 cm;Unité;210 000;225 265;233 300
+03.1.1.5.3.0.001;Fourniture et pose de porte isoplane en contreplaqué de 5mm de 60x220 cm;Unité;60 000;65 835;70 000
+03.1.1.5.3.0.002;Fourniture et pose de Porte isoplane en contreplaqué de 5mm de 70x220 cm;Unité;70 000;75 835;80 000
+03.1.1.5.3.0.003;Fourniture et pose de Porte isoplane en contreplaqué de 5mm de 80x220 cm;Unité;80 000;85 835;90 000
+03.1.1.5.3.0.004;Fourniture et pose de Porte isoplane en contreplaqué de 5mm de 90x220 cm;Unité;95 000;100 835;105 000
+03.1.1.5.3.0.005;Fourniture et pose de Porte isoplane en contreplaqué de 5mm de 120x220 cm;Unité;105 000;110 835;115 000
+03.1.1.5.3.0.006;Fourniture et pose de Porte isoplane en contreplaqué de 5mm de 120x220 cm va et vient;Unité;120 000;125 835;130 000
+03.1.1.5.3.0.007;Fourniture et pose de Porte isoplane capitonnée 70/220 cm;Unité;150 000;155 835;160 000
+03.1.1.5.3.0.008;Fourniture et pose de Porte isoplane capitonnée 80/220 cm;Unité;180 000;185 835;190 000
+03.1.1.5.3.0.009;Fourniture et pose de Porte isoplane capitonnée 90/220 cm;Unité;210 000;215 835;220 000
+03.1.1.5.3.0.010;Fourniture et pose de Porte isoplane capitonnée 120/220 cm;Unité;240 000;245 835;250 000
+03.1.1.5.3.0.011;Fourniture et pose de armoire en bois incorporé  y compris toute sujétion;m2;48 000;51 940;55 194
+03.1.1.5.3.0.012;Fourniture et pose de Porte en bois massif  70/220 cm;Unité;200 000;205 835;210 000
+03.1.1.5.3.0.013;Fourniture et pose de Porte en bois massif  80/220 cm;Unité;207 500;213 335;217 500
+03.1.1.5.3.0.014;Fourniture et pose de Porte en bois massif  90/220 cm;Unité;215 000;220 835;225 000
+03.1.1.5.3.0.015;Fourniture et pose de Porte en bois massif 120/220 cm;Unité;222 500;228 335;232 500
+03.1.1.5.3.0.016;Fourniture et pose de Porte en bois massif  80/220 cm y compris cadre en bois;Unité;247 500;253 335;257 500
+03.1.1.5.3.0.017;Fourniture et pose de Porte en bois massif  90/220 cm y compris cadre en bois;Unité;257 500;263 335;267 500
+03.1.1.5.3.0.018;Fourniture et pose de Porte en bois massif 120/220 cm y compris cadre en bois;Unité;267 500;273 335;277 500
+03.1.1.5.3.0.020;Fourniture et pose de faux plafond en contre-plaqué de 5 mm y compris toute sujétion en maille de 120x120 cm;m²;11 250;12 315;13 500
+03.1.1.5.3.0.021;Fourniture et pose de faux plafond en contre-plaqué de 10 mm  y compris toute sujétion en maille de 60x60 cm;m²;16 750;17 815;19 000
+03.1.1.5.3.0.022;Fourniture et pose de faux plafond en contre-plaqué de 10 mm  y compris toute sujétion en maille de 120x120 cm;m²;15 750;16 815;18 000
+03.1.1.5.3.0.023;Fourniture et pose de faux plafond en lambris en bois y compris toute sujétion;m²;24 250;25 315;26 500
+03.1.1.5.4;MENUISERIE PLASTIQUE ET AUTRES;;;;
+03.1.1.5.4.0.001;Fourniture et pose de faux plafond en staff y compris toute sujétion;m²;13 000;13 450;13 750
+03.1.1.5.4.0.002;Fourniture et pose de faux plafond en lambris en PVC y compris toute sujétion;m²;14 000;14 500;15 000
+03.1.1.5.4.0.003;Fourniture et pose de faux plafond suspendu en plaque de plâtre y compris toute sujétion;m²;15 500;15 665;16 000
+03.1.1.5.4.0.004;Fourniture et pose de faux plafond suspendu en plaque de PVC y compris toute sujétion;m²;26 000;27 835;30 000
+03.1.1.5.4.0.005;Fourniture et pose de faux plafond en panneau sandwich y compris toute sujétion;m²;48 000;51 835;55 000
+03.1.1.5.4.0.006;Fourniture et pose de faux plafond en translucide y compris toute sujétion;m²;20 250;21 085;22 500
+03.1.1.5.4.0.007;Fourniture et pose de plaque signalétique fixe de porte en plexi glace;Unité;17 500;18 835;20 000
+03.1.1.5.4.0.008;Fourniture et pose de plaque signalétique amovible de porte en plexi glace avec support fixe en aluminium;Unité;22 500;23 500;25 000
+03.1.1.6;ELECTRICITE CLIMATISATION;;;;
+03.1.1.6.1;ALIMENTATION ELECTRIQUE;;;;
+03.1.1.6.1.0.002;Fourniture et pose de câble U1000 R02V Cu busé avec PVC 4x16mm² y compris tranchée, lit de sable et grillage avertisseur;ml;11 500;12 335;13 000
+03.1.1.6.1.0.003;Fourniture et pose de câble U1000 R02V Cu busé avec PVC 4x32mm² y compris tranchée, lit de sable et grillage avertisseur;ml;18 000;19 250;20 000
+03.1.1.6.1.0.004;Fourniture et pose de câble armé U1000 R02V Cu de 4x32mm² y compris tranchée, lit de sable et grillage avertisseur;ml;22 000;22 585;23 000
+03.1.1.6.1.0.005;Fourniture et pose de câble U1000 R02V Cu busé avec PVC 160 de 4x64mm² y compris tranchée, lit de sable et grillage avertisseur;ml;62 500;63 665;65 000
+03.1.1.6.1.0.006;Ensemble fourreautage en tube ICT (tube orange ou gorgé) de section 9mm² pour la réalisation  du réseau électrique;ml;2 000;2 085;2 150
+03.1.1.6.1.0.007;Ensemble fourreautage en tube ICT (tube orange ou gorgé) de section 11mm² pour la réalisation  du réseau électrique;ml;2 750;2 850;3 000
+03.1.1.6.1.0.008;Ensemble fourreautage en tube ICT (tube orange ou gorgé) de section 16mm² pour la réalisation du réseau électrique;ml;1 250;1 365;1 500
+03.1.1.6.1.0.009;Ensemble fourreautage en tube ICT (tube orange ou gorgé) de section 20mm² pour la réalisation du réseau électrique;ml;1 500;1 635;1 750
+03.1.1.6.1.0.010;Ensemble fourreautage en tube ICT (tube orange ou gorgé) de section 25mm² pour la réalisation du réseau électrique;ml;1 600;1 650;1 750
+03.1.1.6.1.0.011;Ensemble fourreautage en tube ICT (tube orange ou gorgé) de section 32mm² pour la réalisation du réseau électrique;ml;1 750;1 850;2 000
+03.1.1.6.1.0.012;Installation fil électrique de section 1,5 mm² pour luminaire y compris boite de dérivation;ml;1 250;1 365;1 500
+03.1.1.6.1.0.014;Installation fil électrique de section 2x2,5 mm² pour prise y compris boite de dérivation;ml;2 200;2 350;2 500
+03.1.1.6.1.0.015;Installation fil électrique de section 3x1,5 mm² pour luminaire y compris boite de dérivation;ml;2 200;2 350;2 500
+03.1.1.6.1.0.016;Installation fil électrique de section 3x2,5 mm² pour prise y compris boite de dérivation;ml;2 200;2 350;2 500
+03.1.1.6.1.0.017;Installation fil électrique de section 3x4 mm² pour climatiseur, split y compris boite de dérivation;ml;3 000;3 250;3 500
+03.1.1.6.1.0.018;Installation fil électrique de section 5x4 mm² pour climatiseur armoire y compris boite de dérivation;ml;5 375;5 590;6 000
+03.1.1.6.1.0.019;Installation câble électrique de section 2x2,5 mm² pour prise y compris boite de dérivation;ml;3 875;3 925;4 000
+03.1.1.6.1.0.020;Installation câble électrique de section 3x1,5 mm² pour luminaire y compris boite de dérivation;ml;3 500;3 765;4 000
+03.1.1.6.1.0.021;Installation câble électrique de section 3x2,5 mm² pour prise y compris boite de dérivation;ml;4 250;4 585;5 000
+03.1.1.6.1.0.022;Installation câble électrique de section 3x4 mm² pour climatiseur, split y compris boite de dérivation;ml;4 300;4 565;5 000
+03.1.1.6.1.0.023;Installation câble électrique de section 5x4 mm² pour climatiseur armoire y compris boite de dérivation;ml;5 275;5 525;6 000
+03.1.1.6.1.0.024;Mise à la terre en câblage de cuivre de 10 mm² y compris fouille, piquet de terre et toutes sujétion de pose;ml;8 900;9 300;10 000
+03.1.1.6.1.0.025;Mise à la terre en câblage de cuivre de 25 mm² y compris fouille, piquet de terre et toutes sujétion de pose;ml;9 700;9 840;10 000
+03.1.1.6.1.0.026;Mise à la terre en câblage de cuivre de 35 mm² y compris fouille, piquet de terre et toutes sujétion de pose;ml;10 800;11 440;12 500
+03.1.1.6.1.0.028;Coffret métallique électrique de 24 modules en sallie équipé y compris toutes sujétions;Unité;560 000;583 335;600 000
+03.1.1.6.1.0.029;Coffret métallique électrique de 36 modules en sallie équipé y compris toutes sujétions;Unité;675 000;685 000;700 000
+03.1.1.6.1.0.030;Coffret métallique électrique de 64 modules en sallie équipé y compris toutes sujétions;Unité;1 150 000;1 250 000;1 350 000
+03.1.1.6.1.0.031;Coffret électrique de 12 modules de métallique encastré équipé y compris toutes sujétions;Unité;215 000;230 000;250 000
+03.1.1.6.1.0.032;Coffret métallique électrique de 24 modules encastré équipé y compris toutes sujétions;Unité;438 100;463 535;500 000
+03.1.1.6.1.0.033;Coffret  métallique électrique de 36 modules encastré équipé y compris toutes sujétions;Unité;850 000;933 335;1 000 000
+03.1.1.6.1.0.034;Coffret métallique électrique de 64 modules encastré équipé y compris toutes sujétions;Unité;1 150 000;1 250 000;1 350 000
+03.1.1.6.1.0.035;Fourniture et pose d'armoire  métallique électrique de 96 modules en sallie équipée;Unité;2 167 400;2 280 800;2 500 000
+03.1.1.6.1.0.036;Fourniture et pose d'armoire métallique électrique 120 modules en sallie équipée;Unité;2 600 000;2 750 000;3 000 000
+03.1.1.6.1.0.037;Fourniture et pose d'armoire métallique électrique 96 modules encastré  équipée;Unité;2 750 000;2 900 000;3 150 000
+03.1.1.6.1.0.038;Fourniture et pose d'armoire métallique électrique 120 modules encastré équipée;Unité;2 800 000;2 950 000;3 200 000
+03.1.1.6.2;APPAREILLAGES ELECTRIQUES;;;;
+03.1.1.6.2.0.001;Fourniture et pose bouton poussoir y compris toutes sujétions de pose;Unité;4 250;4 565;5 000
+03.1.1.6.2.0.002;Fourniture et pose  interrupteur double allumage y compris toutes sujétions de pose;Unité;4 250;4 565;5 000
+03.1.1.6.2.0.004;Fourniture et pose  interrupteur Va et Vient y compris toutes sujétions de pose;Unité;4 250;4 565;5 000
+03.1.1.6.2.0.005;Fourniture et pose interrupteur étanche  y compris toutes sujétions de pose;Unité;4 250;4 565;5 000
+03.1.1.6.2.0.006;Fourniture et pose interrupteur crépusculaire y compris toutes sujétions de pose;Unité;4 250;4 565;5 000
+03.1.1.6.2.0.007;Fourniture et pose télérupteur;Unité;4 250;4 565;5 000
+03.1.1.6.2.0.008;Fourniture et pose  lampe à grille 60 LED de 18W;Unité;14 000;14 575;15 000
+03.1.1.6.2.0.009;Fourniture et pose  lampe à grille 60 fluorescent;Unité;14 000;14 575;15 000
+03.1.1.6.2.0.010;Fourniture et pose  luminaire réglette complète  60  LED de 18W;Unité;10 500;11 000;12 000
+03.1.1.6.2.0.011;Fourniture et pose  luminaire réglette complète  60 étanche LED de 18W;Unité;10 500;11 000;12 000
+03.1.1.6.2.0.012;Fourniture et pose  luminaire réglette complète  60 LED de 20W;Unité;10 500;11 000;12 000
+03.1.1.6.2.0.013;Fourniture et pose  luminaire réglette complète  60 étanche LED de 20W;Unité;10 500;11 000;12 000
+03.1.1.6.2.0.014;Fourniture et pose  luminaire réglette complète  60 LED de 22W;Unité;10 500;11 000;12 000
+03.1.1.6.2.0.015;Fourniture et pose  luminaire réglette complète  60 étanche LED de 22W;Unité;10 500;11 000;12 000
+03.1.1.6.2.0.016;Fourniture et pose  luminaire réglette complète duo 60 LED de 18W;Unité;15 000;16 000;17 500
+03.1.1.6.2.0.017;Fourniture et pose  luminaire réglette complète  120 LED de 18W;Unité;14 000;14 625;15 000
+03.1.1.6.2.0.018;Fourniture et pose  luminaire réglette complète  120 étanche LED de 18W;Unité;14 000;14 625;15 000
+03.1.1.6.2.0.020;Fourniture et pose  luminaire réglette complète  120 étanche LED de 20W;Unité;14 000;14 625;15 000
+03.1.1.6.2.0.021;Fourniture et pose  luminaire réglette complète  120 LED de 22W;Unité;13 750;14 185;15 000
+03.1.1.6.2.0.022;Fourniture et pose  luminaire réglette complète  120 étanche LED de 22W;Unité;14 000;14 335;15 000
+03.1.1.6.2.0.023;Fourniture et pose  luminaire réglette complète duo 120 LED de 18W;Unité;15 000;16 285;17 250
+03.1.1.6.2.0.024;Fourniture et pose  luminaire réglette complète  60 fluorescent;Unité;11 100;11 700;12 500
+03.1.1.6.2.0.025;Fourniture et pose  luminaire réglette complète  60 étanche fluorescent;Unité;12 500;12 990;13 375
+03.1.1.6.2.0.026;Fourniture et pose  luminaire réglette complète  120 fluorescent;Unité;12 500;13 385;13 900
+03.1.1.6.2.0.027;Fourniture et pose  luminaire réglette complète  120 étanche fluorescent;Unité;13 000;14 000;14 500
+03.1.1.6.2.0.028;Fourniture et pose luminaire avec système de détection de présence y compris toutes sujétions de pose;Unité;17 500;19 165;20 000
+03.1.1.6.2.0.029;Fourniture et pose  lustre  y compris toutes sujétions de pose;Unité;132 500;139 535;150 000
+03.1.1.6.2.0.030;Fourniture et pose  poste  téléphonique  y compris toutes sujétions de pose;Unité;37 500;40 000;42 500
+03.1.1.6.2.0.031;Fourniture et pose  prises  courant 2P +T;Unité;3 000;3 250;3 500
+03.1.1.6.2.0.032;Fourniture et pose  prises  courant 2P +T  10/16A;Unité;3 000;3 250;3 500
+03.1.1.6.2.0.033;Fourniture et pose spot lumineux 6W;Unité;10 500;11 415;12 500
+03.1.1.6.2.0.034;Fourniture et pose spot lumineux 9W;Unité;12 500;13 415;14 500
+03.1.1.6.2.0.035;Fourniture et pose spot lumineux 12W;Unité;14 000;14 915;16 000
+03.1.1.6.2.0.036;Fourniture et pose spot lumineux 18W;Unité;15 500;16 415;17 500
+03.1.1.6.2.0.038;Fourniture et pose applique mural extérieur y compris luminaire;Unité;22 500;24 100;25 000
+03.1.1.6.2.0.039;Fourniture et pose applique mural intérieur y compris luminaire;Unité;22 500;24 100;25 000
+03.1.1.6.2.0.040;Fourniture et pose applique sanitaire mural y compris luminaire;Unité;12 500;13 665;15 000
+03.1.1.6.2.0.041;Fourniture et pose brasseur d'air + rhéostat;Unité;45 000;46 865;50 000
+03.1.1.6.2.0.042;Fourniture et pose ventilateur plafonnier;Unité;25 000;27 500;30 000
+03.1.1.6.3;APPAREILS DE CLIMATISATION;;;;
+03.1.1.6.3.0.001;Fourniture et pose climatiseur split système 1 CV  y compris toute sujétion  de pose;Unité;183 700;190 255;200 000
+03.1.1.6.3.0.002;Fourniture et pose climatiseur split système 1,5 CV  y compris toute sujétion  de pose;Unité;200 000;209 545;225 000
+03.1.1.6.3.0.003;Fourniture et pose climatiseur split système 2 CV  y compris toute sujétion  de pose;Unité;225 000;242 440;250 000
+03.1.1.6.3.0.004;Fourniture et pose climatiseur split système 2,5 CV  y compris toute sujétion  de pose;Unité;275 000;297 500;325 000
+03.1.1.6.3.0.005;Fourniture et pose climatiseur split système 3 CV  y compris toute sujétion  de pose;Unité;325 000;343 750;375 000
+03.1.1.6.3.0.006;Fourniture et pose de climatiseur armoire 5 CV  y compris toute sujétion  de pose;Unité;415 000;447 500;485 000
+03.1.1.6.3.0.007;Fourniture et pose climatiseur rooftop système 5 CV y compris toute sujétion  de pose;Unité;715 000;731 250;750 000
+03.1.1.6.3.0.008;Fourniture et pose climatiseur split système type économique 1 CV  y compris toute sujétion  de pose;Unité;345 000;354 450;375 000
+03.1.1.6.3.0.009;Fourniture et pose climatiseur split système  type économique1,5 CV  y compris toute sujétion  de pose;Unité;356 600;365 090;380 000
+03.1.1.6.3.0.011;Fourniture et pose climatiseur split système  type économique 2,5 CV  y compris toute sujétion  de pose;Unité;465 000;502 190;550 000
+03.1.1.6.3.0.012;Fourniture et pose climatiseur split système type économique 3 CV  y compris toute sujétion  de pose;Unité;525 000;560 940;600 000
+03.1.1.6.3.0.013;Fourniture et pose climatiseur split système  type économique 5 CV  y compris toute sujétion  de pose;Unité;1 309 375;1 384 845;1 500 000
+03.1.1.6.3.0.014;Fourniture et pose climatiseur inverter 1,5 CV  y compris toute sujétion  de pose;Unité;400 000;428 700;450 000
+03.1.1.6.3.0.015;Fourniture et pose climatiseur inverter 2 CV  y compris toute sujétion  de pose;Unité;450 000;463 175;475 000
+03.1.1.6.3.0.016;Fourniture et pose climatiseur inverter 2,5 CV  y compris toute sujétion  de pose;Unité;498 800;515 015;550 000
+03.1.1.6.3.0.017;Fourniture et pose climatiseur inverter 3 CV  y compris toute sujétion  de pose;Unité;592 500;613 440;650 000
+03.1.1.6.3.0.018;Fourniture et pose armoire climatiseur inverter 5 CV  y compris toute sujétion  de pose;Unité;1 346 875;1 416 420;1 500 000
+03.1.1.6.3.0.019;Fourniture et pose climatiseur split système type solaire 1 CV y compris toute sujétion  de pose;Unité;1 300 000;1 350 000;1 450 000
+03.1.1.6.3.0.020;Fourniture et pose climatiseur split système type solaire 1,5 CV y compris toute sujétion  de pose;Unité;1 350 000;1 400 000;1 500 000
+03.1.1.6.3.0.021;Fourniture et pose climatiseur split système type solaire 2 CV y compris toute sujétion  de pose;Unité;1 400 000;1 450 000;1 550 000
+03.1.1.6.3.0.022;Fourniture et pose climatiseur split système type solaire 2,5 CV y compris toute sujétion  de pose;Unité;1 450 000;1 500 000;1 600 000
+03.1.1.6.3.0.023;Fourniture et pose climatiseur split système type solaire 3 CV y compris toute sujétion  de pose;Unité;1 500 000;1 550 000;1 650 000
+03.1.1.6.4;SOURCES D'ENERGIE;;;;
+03.1.1.6.4.1;EQUIPEMENT DE PRODUCTION SOLAIRE PV;;;;
+03.1.1.6.4.1.001;Fourniture et pose de Batterie 10 Ah-12V  (sans entretien);Unité;35 000;37 500;40 000
+03.1.1.6.4.1.002;Fourniture et pose de Batterie 20 Ah-12V  (sans entretien);Unité;47 500;50 000;52 500
+03.1.1.6.4.1.004;Fourniture et pose de Batterie 50 Ah-12V  (sans entretien);Unité;37 500;39 835;42 000
+03.1.1.6.4.1.005;Fourniture et pose de Batterie 60 Ah-12V  (sans entretien);Unité;45 000;48 165;52 000
+03.1.1.6.4.1.007;Fourniture et pose de Batterie 100 Ah-12V  (sans entretien);Unité;75 000;80 665;85 000
+03.1.1.6.4.1.008;Fourniture et pose de Batterie 150 Ah-12V  (sans entretien);Unité;200 000;210 000;220 000
+03.1.1.6.4.1.009;Fourniture et pose de Batterie 200 Ah-12V  (sans entretien);Unité;225 000;236 665;250 000
+03.1.1.6.4.1.010;Fourniture et pose de Batterie solaire AGM  de 100 Ah-12V;Unité;190 000;203 335;220 000
+03.1.1.6.4.1.011;Fourniture et pose de Batterie solaire AGM  de 150 Ah-12V;Unité;230 000;238 335;250 000
+03.1.1.6.4.1.012;Fourniture et pose de Batterie solaire AGM  de 200 Ah-12V;Unité;250 000;270 000;280 000
+03.1.1.6.4.1.013;Fourniture et pose de Batterie solaire GEL de 100 Ah-12V;Unité;200 000;208 335;225 000
+03.1.1.6.4.1.014;Fourniture et pose de Batterie solaire GEL de 150 Ah-12V;Unité;221 700;231 400;250 000
+03.1.1.6.4.1.015;Fourniture et pose de Batterie solaire GEL de 200 Ah-12V;Unité;225 000;244 925;252 500
+03.1.1.6.4.1.016;Fourniture et pose de Batterie solaire GEL de 250 Ah-12V;Unité;250 000;268 675;287 500
+03.1.1.6.4.1.017;Fourniture et pose de Batterie solaire Lithium 10KWh;Unité;1 300 000;1 375 000;1 500 000
+03.1.1.6.4.1.018;Fourniture et pose de Batterie solaire Lithium 15KWh;Unité;1 700 000;1 766 665;1 850 000
+03.1.1.6.4.1.028;Fourniture et pose onduleur autonome 1 kVA;Unité;125 000;136 665;150 000
+03.1.1.6.4.1.029;Fourniture et pose onduleur autonome 1,5 kVA;Unité;110 000;116 665;125 000
+03.1.1.6.4.1.031;Fourniture et pose onduleur autonome 3 kVA;Unité;162 500;174 165;185 000
+03.1.1.6.4.1.032;Fourniture et pose onduleur autonome 5 kVA;Unité;325 000;340 000;350 000
+03.1.1.6.4.1.033;Fourniture et pose onduleur hybride 1 kVA;Unité;105 000;114 165;120 000
+03.1.1.6.4.1.036;Fourniture et pose onduleur hybride 3 kVA;Unité;320 000;348 335;375 000
+03.1.1.6.4.1.037;Fourniture et pose onduleur hybride 5 kVA;Unité;550 000;591 665;650 000
+03.1.1.6.4.1.043;Fourniture et pose de Panneau solaire photo voltaïque, puissance 150W-12V;Unité;37 000;39 250;42 500
+03.1.1.6.4.1.045;Fourniture et pose de Panneau solaire photo voltaïque, puissance 170W-12V;Unité;54 500;56 750;60 000
+03.1.1.6.4.1.046;Fourniture et pose de Panneau solaire photo voltaïque, puissance 180W-12V;Unité;62 000;64 250;67 500
+03.1.1.6.4.1.047;Fourniture et pose de Panneau solaire photo voltaïque, puissance 190W-12V;Unité;69 500;71 750;75 000
+03.1.1.6.4.1.048;Fourniture et pose de Panneau solaire photo voltaïque, puissance 200W-24V;Unité;79 500;81 750;85 000
+03.1.1.6.4.1.049;Fourniture et pose de Panneau solaire photo voltaïque, puissance 250W-24V;Unité;87 000;89 250;92 500
+03.1.1.6.4.1.050;Fourniture et pose de Panneau solaire photo voltaïque, puissance 300W-24V;Unité;97 000;99 250;102 500
+03.1.1.6.4.1.051;Fourniture et pose de Panneau solaire photo voltaïque, puissance 400W-24V;Unité;107 000;109 250;112 500
+03.1.1.6.4.1.052;Fourniture et pose de Panneau solaire photo voltaïque, puissance 500W-24V;Unité;117 000;119 250;122 500
+03.1.1.6.4.1.054;Fourniture et pose de Régulateur de charge MPPT 10A-12V;Unité;73 000;80 000;85 000
+03.1.1.6.4.1.055;Fourniture et pose de Régulateur de charge MPPT 15A-12V;Unité;85 500;92 500;97 500
+03.1.1.6.4.1.056;Fourniture et pose de Régulateur de charge MPPT 20A-12V;Unité;98 000;105 000;110 000
+03.1.1.6.4.1.057;Fourniture et pose de Régulateur de charge MPPT 30A-24V;Unité;110 500;117 500;122 500
+03.1.1.6.4.1.058;Fourniture et pose de Régulateur de charge MPPT 40A-24V;Unité;123 000;130 000;135 000
+03.1.1.6.4.1.059;Fourniture et pose de Régulateur de charge MPPT 50A-24V;Unité;135 500;142 500;147 500
+03.1.1.6.4.1.060;Fourniture et pose de Régulateur de charge MPPT 60A-48V;Unité;148 000;155 000;160 000
+03.1.1.6.4.1.061;Fourniture et pose de Régulateur de charge PWM 10A-12V;Unité;160 500;167 500;172 500
+03.1.1.6.4.1.062;Fourniture et pose de Régulateur de charge PWM 15A-12V;Unité;173 000;180 000;185 000
+03.1.1.6.4.1.063;Fourniture et pose de Régulateur de charge PWM 20A-12V;Unité;185 500;192 500;197 500
+03.1.1.6.4.1.064;Fourniture et pose de Régulateur de charge PWM 30A-24V;Unité;198 000;205 000;210 000
+03.1.1.6.4.1.066;Fourniture et pose de Régulateur de charge PWM 50A-24V;Unité;223 000;230 000;235 000
+03.1.1.6.4.1.067;Fourniture et pose de Régulateur de charge PWM 60A-48V;Unité;235 500;242 500;247 500
+03.1.1.6.4.2;AUTRE ÉQUIPEMENT DE PRODUCTION D'ÉNERGIE;;;;
+03.1.1.6.4.2.001;Fourniture et pose d'un groupe électrogène 5 KVA;Ensemble;1 500 000;1 616 665;1 700 000
+03.1.1.6.4.2.002;Fourniture et pose d'un groupe électrogène 10 KVA;Ensemble;2 250 000;2 425 000;2 550 000
+03.1.1.6.4.2.003;Fourniture et pose d'un groupe électrogène 15 KVA;Ensemble;3 000 000;3 175 000;3 300 000
+03.1.1.6.4.2.004;Fourniture et pose d'un groupe électrogène 20 KVA;Ensemble;7 000 000;7 250 000;7 500 000
+03.1.1.6.4.2.005;Fourniture et pose d'un groupe électrogène 25 KVA;Ensemble;7 750 000;8 000 000;8 250 000
+03.1.1.6.4.2.006;Fourniture et pose d'un groupe électrogène 30 KVA;Ensemble;11 000 000;11 456 035;11 750 000
+03.1.1.6.4.2.007;Fourniture et pose d'un groupe électrogène 40 KVA;Ensemble;14 145 800;14 506 935;15 000 000
+03.1.1.6.4.2.008;Fourniture et pose d'un groupe électrogène 50 KVA;Ensemble;17 451 400;18 384 265;19 451 400
+03.1.1.6.4.2.009;Fourniture et pose d'un groupe électrogène 70 KVA;Ensemble;20 590 300;21 643 535;22 590 300
+03.1.1.6.4.2.010;Fourniture et pose d'un groupe électrogène 80 KVA;Ensemble;24 229 200;25 152 800;26 229 200
+03.1.1.6.4.2.011;Fourniture et pose d'un groupe électrogène 90 KVA;Ensemble;30 451 400;31 384 265;32 451 400
+03.1.1.6.4.2.012;Fourniture et pose d'un groupe électrogène 100 KVA;Ensemble;39 090 300;40 226 865;41 090 300
+03.1.1.6.4.2.013;Fourniture et pose d'un groupe électrogène 120 KVA;Ensemble;45 451 400;46 634 265;47 451 400
+03.1.1.7;INFORMATIQUE-SECURITE INCENDIE-PLOMBERIE SANITAIRE;;;;
+03.1.1.7.1;RESEAU ET APPAREIL INFORMATIQUE;;;;
+03.1.1.7.1.0.001;Installation de câbles UTP 4 paires catégorie 6A pour réseau informatique;ml;3 000;3 250;3 500
+03.1.1.7.1.0.002;Installation de câbles UTP 4 paires catégorie 7A pour réseau informatique;ml;4 500;4 700;5 000
+03.1.1.7.1.0.003;Installation de câbles STP 4 paires catégorie 6A pour réseau informatique;ml;6 875;6 925;7 000
+03.1.1.7.1.0.004;Installation de câbles STP 4 paires catégorie 7A pour réseau informatique;ml;8 500;8 700;9 000
+03.1.1.7.1.0.006;Installation de câbles SSTP 4 paires catégorie 7A pour réseau informatique;ml;10 250;10 625;11 000
+03.1.1.7.1.0.007;"Fourniture et pose d'armoire de brassage 19""4U équipée y compris toutes sujétion de pose";Unité;107 500;110 300;115 000
+03.1.1.7.1.0.008;"Fourniture et pose d'armoire de brassage 19""6U équipée y compris toutes sujétion de pose";Unité;156 250;162 585;175 000
+03.1.1.7.1.0.009;"Fourniture et pose d'armoire de brassage 19""9U équipée y compris toutes sujétion de pose";Unité;195 000;205 635;225 000
+03.1.1.7.1.0.010;"Fourniture et pose d'armoire de brassage 19""12U équipée y compris toutes sujétion de pose";Unité;312 500;326 835;350 000
+03.1.1.7.1.0.011;"Fourniture et pose d'armoire de brassage 19""16U équipée y compris toutes sujétion de pose";Unité;400 000;420 635;450 000
+03.1.1.7.1.0.012;"Fourniture et pose d'armoire de brassage 19""22U équipée y compris toutes sujétion de pose";Unité;600 000;650 000;700 000
+03.1.1.7.1.0.013;"Fourniture et pose d'armoire de brassage 19""42U équipée y compris toutes sujétion de pose";Unité;750 000;766 665;800 000
+03.1.1.7.1.0.014;Fourniture et pose panneaux de brassages 12 ports;Unité;25 000;25 700;27 100
+03.1.1.7.1.0.015;Fourniture et pose panneaux de brassages 24 ports;Unité;35 000;37 500;40 000
+03.1.1.7.1.0.016;Fourniture et pose panneaux de brassages 48 ports;Unité;42 500;45 835;50 000
+03.1.1.7.1.0.017;Fourniture et pose switch non racable 12 ports 100/1000 Mbit/s;Unité;32 000;33 065;35 000
+03.1.1.7.1.0.018;Fourniture et pose switch racable 12 ports 100/1000 Mbit/s manageable POE;Unité;37 500;39 165;42 500
+03.1.1.7.1.0.019;Fourniture et pose switch non racable 16 ports 100/1000 Mbit/s;Unité;45 000;46 665;50 000
+03.1.1.7.1.0.020;Fourniture et pose switch racable 16 ports 100/1000 Mbit/s manageable POE;Unité;42 500;45 835;50 000
+03.1.1.7.1.0.022;Fourniture et pose switch racable 24 ports 100/1000 Mbit/s manageable POE;Unité;65 000;69 165;75 000
+03.1.1.7.1.0.023;Fourniture et pose switch non racable 48 ports 100/1000 Mbit/s;Unité;135 000;139 165;145 000
+03.1.1.7.1.0.024;Fourniture et pose switch racable 48 ports 100/1000 Mbit/s manageable POE;Unité;140 800;144 435;150 000
+03.1.1.7.1.0.025;Fourniture et pose  prises  informatiques RJ 11;Unité;12 000;13 000;14 000
+03.1.1.7.1.0.026;Fourniture et pose  prises informatiques RJ 45;Unité;12 000;13 000;14 000
+03.1.1.7.1.1;Switch;;;;
+03.1.1.7.1.1.001;Switch  tp-link TL-SG1005D: non manageable, 5 ports gigabit;Unité;37 000;43 000;51 000
+03.1.1.7.1.1.002;Switch Cisco Catalyst 2960 PLUS : 24 ports 10/100 POE 2T/SFP Lan Base - wS-C2960+24LC-L;Unité;9 962 000;11 450 000;12 710 000
+03.1.1.7.1.1.003;Switch Cisco Catalyst 2960 PLUS : 48 ports 10/100 + 2T/SFP Lan Base - wS-C2960+48TC-L;Unité;1 383 000;1 590 000;1 765 000
+03.1.1.7.1.1.004;Switch Cisco Catalyst 2960 PLUS : 48 ports 10/100 POE+ 2 1000 BT + 2 SFP LAN Lite - wS-C2960+48PST-S;Unité;1 436 000;1 650 000;1 832 000
+03.1.1.7.1.1.005;Switch Cisco Catalyst 2960 PLUS :24ports  10/100 + 2T/SFP Lan Base - wS-C2960+24TC-S;Unité;848 000;975 000;1 082 000
+03.1.1.7.1.1.006;Switch Cisco Catalyst 2960X-48LPD-L :48 ports 10/100/1000 avec 2 ports SFP;Unité;2 514 000;2 890 000;3 208 000
+03.1.1.7.1.1.007;Switch Cisco Catalyst 9500 48-port;Unité;7 813 000;8 980 000;9 968 000
+03.1.1.7.1.1.008;Switch Cisco Catalyst C2960X-24PS-L : 24 ports 10/100/1000 avec 12 ports POE+ et 4 ports SFP;Unité;1 662 000;1 910 000;2 120 000
+03.1.1.7.1.1.009;Switch Cisco Catalyst C3560X-48P-S 48 Ports;Unité;1 992 000;2 290 000;2 542 000
+03.1.1.7.1.1.010;Switch Cisco Catalyst C3560X-48T-S 48 Ports;Unité;1 966 000;2 260 000;2 509 000
+03.1.1.7.1.1.011;Switch Cisco Catalyst C9300 24 Ports;Unité;3 963 000;4 555 000;5 056 000
+03.1.1.7.1.1.012;Switch Cisco Nexus 3750 48 ports;Unité;1 536 000;1 765 000;1 959 000
+03.1.1.7.1.1.014;Switch Cisco Nexus 7700 4 Slots;Unité;1 614 000;1 855 000;2 059 000
+03.1.1.7.1.1.015;Switch Cisco Nexus 9500 48 ports;Unité;11 449 000;13 160 000;14 608 000
+03.1.1.7.1.1.016;Switch d-link 24 port 10/100;Unité;57 000;65 000;77 000
+03.1.1.7.1.1.017;Switch HP Procurve 2824 24 ports;Unité;48 000;55 000;65 000
+03.1.1.7.1.1.018;Switch NETGEAR GS208 : 8 ports rj45 10/100/1000;Unité;65 000;75 000;89 000
+03.1.1.7.1.1.019;Switch NETGEAR ProSafe GS105 : 5 ports non manageable gigabit;Unité;36 000;41 000;49 000
+03.1.1.7.1.1.020;Switch NETGEAR ProSafe Plus GS105E :manageable niveau 2 avec 5 ports rj45 Gigabit;Unité;36 000;41 000;49 000
+03.1.1.7.1.1.021;Switch réseau Easy Smart tp-link TL-SG108E: manageable avec 8 ports gigabit;Unité;38 000;44 000;52 000
+03.1.1.7.1.1.022;Switch tp-link TL-SG105E:  manageable avec 5 ports 10/100/1000 Mbps;Unité;38 000;44 000;52 000
+03.1.1.7.1.2;Routeur Filaire;;;;
+03.1.1.7.1.2.001;Routeur Cisco : model  2901/K9;Unité;630 000;685 000;740 000
+03.1.1.7.1.2.002;Routeur Cisco : model  2901V/K9;Unité;790 000;840 000;907 000
+03.1.1.7.1.2.003;Routeur Cisco : model  2921/K9;Unité;1 170 000;1 245 000;1 332 000
+03.1.1.7.1.2.004;Routeur Cisco : model 2901-SEC/K9;Unité;832 000;885 000;947 000
+03.1.1.7.1.2.005;Routeur Cisco : model 2911 SEC/K9;Unité;1 260 000;1 340 000;1 434 000
+03.1.1.7.1.2.006;Routeur Cisco : model 2911 VSEC/K10;Unité;1 354 000;1 440 000;1 541 000
+03.1.1.7.1.2.007;Routeur Cisco : model 2911/K9;Unité;1 076 000;1 145 000;1 225 000
+03.1.1.7.1.2.008;Routeur Cisco : model 2921 SEC/K9;Unité;1 199 000;1 275 000;1 364 000
+03.1.1.7.1.2.009;Routeur Cisco : model 2951 SEC/K9;Unité;1 767 000;1 880 000;2 012 000
+03.1.1.7.1.2.010;Routeur Cisco : model 2951 V/K9;Unité;1 523 000;1 620 000;1 733 000
+03.1.1.7.1.2.011;Routeur Cisco : model 2951/K9;Unité;1 523 000;1 620 000;1 733 000
+03.1.1.7.1.2.012;Routeur Cisco : model 3945 V/K10;Unité;4 263 000;4 535 000;4 852 000
+03.1.1.7.1.2.013;Routeur Cisco : model 3945/K9;Unité;1 725 000;1 835 000;1 963 000
+03.1.1.7.1.2.014;Routeur Cisco : model 881G LTE 2.0 ISR;Unité;1 387 000;1 475 000;1 578 000
+03.1.1.7.1.2.016;Routeur Cisco : model C2911-cmE-SRST/K9;Unité;1 838 000;1 955 000;2 092 000
+03.1.1.7.1.2.017;Routeur Cisco : model ISR 4331;Unité;3 398 000;3 615 000;3 868 000
+03.1.1.7.1.2.018;Routeur Cisco : model ISR 4351;Unité;3 398 000;3 615 000;3 868 000
+03.1.1.7.1.2.019;Routeur Cisco : model ISR 4451-X/ K9;Unité;5 983 000;6 365 000;6 811 000
+03.1.1.7.1.2.020;Routeur Cisco: model RV042-EU,type filaire ,norme 10/100 Mbps,connecteur reseau: 4xLAN ou DMZ-fast Ethernet- rj45,2xwAN-Fast Ethernet- rj45;Unité;6 364 000;6 770 000;7 244 000
+03.1.1.7.1.3;Modem-routeur sans fil/ point d'accès wifi / Répéteur;;;;
+03.1.1.7.1.3.001;Modem - routeur  :300Mbps - 4 ports LAN 10/100 Mbps;Unité;35 000;38 000;46 000
+03.1.1.7.1.3.002;Modem - routeur  :adsl/adsl2+ - 1 Port Ethernet - 1 Port rj11 - 24 Mbit/s en réception et 2 Mbit/s en émission;Unité;44 000;47 000;56 000
+03.1.1.7.1.3.003;Modem - routeur : 1200 Mbps;Unité;65 000;70 000;84 000
+03.1.1.7.1.3.004;Modem - routeur : 4 ports - GigE - 2,4 Ghz - 802.11b/g/n;Unité;70 000;75 000;90 000
+03.1.1.7.1.3.005;Modem - routeur : 450Mbps - Ports Gigabit;Unité;60 000;65 000;78 000
+03.1.1.7.1.3.006;Modem - routeur :1350Mbps avec un port usb 2.0;Unité;70 000;75 000;90 000
+03.1.1.7.1.3.007;Modem multiplicateur Wifi 1200 Mbs double bandes 2,4 Ghz et 5,8 Ghz;Unité;140 000;150 000;180 000
+03.1.1.7.1.3.008;Modem router cisco linksys smart wifi AC900;Unité;153 000;165 000;198 000
+03.1.1.7.1.3.009;Modem- routeur : wiFi AC Dual-Band 2600 Mbps;Unité;160 000;172 000;206 000
+03.1.1.7.1.3.010;Modem -routeur: 4G/LTE : wiFi Dual Band 1200 Mbps (300+867) + 4 ports LAN 10/100/1000 Mbps + 1 port wAN 10/100/1000 Mbps + port carte SIM;Unité;203 000;218 000;262 000
+03.1.1.7.1.3.011;Modem-routeur :Linksys XAC1200;Unité;73 000;78 000;94 000
+03.1.1.7.1.3.012;Point d'accès  2.4 Ghz MikroTik RouterBOARD cAP lite;Unité;130 000;140 000;168 000
+03.1.1.7.1.3.013;Point d'accès 2.4 / 5 GHz a/b/g/n/ac MikroTik wAP RBwAPG-5HacD2HnD;Unité;260 000;280 000;336 000
+03.1.1.7.1.3.014;Point d'accès 2.4 Ghz MikroTik mAP lite RBmAPL-2nD;Unité;377 000;405 000;486 000
+03.1.1.7.1.3.015;Point d'accès 2.4 Ghz MikroTik wAP RBwAP2nD-BE;Unité;377 000;405 000;486 000
+03.1.1.7.1.3.017;Point d'accès extérieur IP67 5 Ghz Ubiquiti uniFi UwB-XG 802.11ac wave2;Unité;246 000;265 000;318 000
+03.1.1.7.1.3.018;Point d'accès extérieur Ubiquiti uniFi Mesh UAP-AC-M-PRO 802.11ac;Unité;172 000;185 000;222 000
+03.1.1.7.1.3.019;Point d'accès extérieur Ubiquiti uniFi Mesh UAP-AC-M- PRO-5 802.11ac;Unité;172 000;185 000;222 000
+03.1.1.7.1.3.020;Point d'accès intérieur/extérieur Ubiquiti uniFi UAP-AC-PRO 802.11ac;Unité;200 000;215 000;258 000
+03.1.1.7.1.3.021;Point d'accès Ubiquiti UniFi UAP-XG 802.11ac Wave2;Unité;209 000;225 000;270 000
+03.1.1.7.1.3.022;point d'accès wifi ubiquiti 300 Mbps dual bande 2,4GHZ;Unité;135 000;145 000;174 000
+03.1.1.7.1.3.023;Point d'accès/Routeur 3G tp-link TL-MR3020;Unité;44 000;47 000;56 000
+03.1.1.7.1.3.024;Répéteur TP-Link  WiFi(TL-WA850RE) 1 Port Ethernet,;Unité;63 000;68 000;82 000
+03.1.1.7.1.3.025;Répéteur TP-Link jusqu'à 120m;Unité;69 000;74 000;89 000
+03.1.1.7.1.3.026;Répéteur TP-Link jusqu'à 90m;Unité;63 000;68 000;82 000
+03.1.1.7.1.4;Panneau de brassage;;;;
+03.1.1.7.1.4.001;Cordon de brassage ethernet RJ45 Cat. 6 de 0,5 mètre;Unité;1 500;1 800;2 300
+03.1.1.7.1.4.002;Cordon de brassage ethernet RJ45 Cat. 6 de 1 mètre;Unité;1 500;1 800;2 300
+03.1.1.7.1.4.003;Cordon de descente Cat. 6 de 3 mètres;Unité;4 000;5 000;6 000
+03.1.1.7.1.4.004;Panneau de brassage ethernet RJ45 Cat. 6 FTP  24 ports;Unité;65 000;73 000;85 000
+03.1.1.7.1.4.005;Panneau de brassage ethernet RJ45 Cat.6 UTP  24 ports;Unité;46 000;52 000;60 000
+03.1.1.7.1.4.006;Panneau de brassage ethernet RJ45 Cat.6A FTP 24 ports;Unité;73 000;82 000;95 000
+03.1.1.7.1.4.007;Panneau de brassage ethernet RJ45 Cat.6A FTP 48 ports;Unité;131 000;147 000;171 000
+03.1.1.7.1.4.008;Panneau de brassage ethernet RJ45 Cat.6A UTP 48 ports;Unité;117 000;132 000;153 000
+03.1.1.7.1.5;Rouleau de Câble réseau rj45;;;;
+03.1.1.7.1.5.001;Câble reseau catégorie 5e ftp  (Rouleau de 100 m);Unité;64 000;67 000;76 000
+03.1.1.7.1.5.002;Câble reseau catégorie 5e ftp  (Rouleau de 300 m);Unité;182 000;192 000;219 000
+03.1.1.7.1.5.003;Câble reseau catégorie 6 ftp (Rouleau de 100 m);Unité;72 000;76 000;87 000
+03.1.1.7.1.5.005;Câble reseau catégorie 6 STP (Rouleau de 100 m);Unité;76 000;80 000;91 000
+03.1.1.7.1.5.006;Câble reseau catégorie 6 STP (Rouleau de 300 m);Unité;252 000;265 000;302 000
+03.1.1.7.1.5.007;Câble reseau catégorie 6 utp (Rouleau de 100 m);Unité;32 000;34 000;38 000
+03.1.1.7.1.5.008;Câble reseau catégorie 6 utp (Rouleau de 300 m);Unité;105 000;110 000;125 000
+03.1.1.7.1.6;Connectique;;;;
+03.1.1.7.1.6.001;Jarretière DAC twinaxe SFP 3m;Unité;6 000;7 000;8 000
+03.1.1.7.1.6.002;Jarretière DAC twinaxe SFP 5m;Unité;8 000;9 000;11 000
+03.1.1.7.1.6.003;Jarretière optique duplex monomode OS2 9/125 LC-LC 10m;Unité;14 000;15 000;18 000
+03.1.1.7.1.6.004;Jarretière optique duplex monomode OS2 9/125 LC- UPC/ST-UPC - 8 m;Unité;9 000;10 000;12 000
+03.1.1.7.1.6.005;Jarretière optique duplex monomode OS2 9/125 ST-LC;Unité;9 000;10 000;12 000
+03.1.1.7.1.6.006;Jarretière optique monomode OS2 9/125 SC-LC 1m;Unité;7 000;8 000;9 000
+03.1.1.7.1.6.007;Jarretière optique multimode OM1 62.5/125 LC/LC  10m;Unité;11 000;12 000;14 000
+03.1.1.7.1.6.008;Jarretière Optique Multimode OM3 50/125 SC/LC 8m;Unité;9 000;10 000;12 000
+03.1.1.7.1.6.009;Jarretière optique simplex monomode 9/125 SC-Apc/SC-Apc 10m;Unité;11 000;12 000;14 000
+03.1.1.7.1.6.010;Jarretière optique simplex monomode 9/125 SC-Apc/SC-Apc 1m;Unité;7 000;8 000;9 000
+03.1.1.7.1.6.011;Jarretière optique simplex monomode 9/125 SC-Apc/SC-Apc 25m;Unité;28 000;31 000;37 000
+03.1.1.7.1.6.012;Jarretière optique simplex monomode 9/125 SC-Apc/SC-Upc 10m;Unité;14 000;15 000;18 000
+03.1.1.7.1.6.013;Jarretière optique simplex monomode 9/125 SC-Apc/SC-Upc 15m;Unité;19 000;21 000;25 000
+03.1.1.7.1.6.014;Jarretière optique simplex monomode 9/125 SC-Apc/SC-Upc 25m;Unité;28 000;31 000;37 000
+03.1.1.7.1.6.015;Jarretière optique simplex monomode 9/125 SC-Apc/SC-Upc 5m;Unité;9 000;10 000;12 000
+03.1.1.7.1.7.001;Cable fibre optique monomode de 1 mètre;Unité;1 500;1 800;2 300
+03.1.1.7.1.7.002;Cable fibre optique monomode de 100 mètres;Unité;224 000;255 000;306 000
+03.1.1.7.1.7.003;Cable fibre optique multimode de 1 mètre;Unité;1 500;1 800;2 300
+03.1.1.7.1.7.004;Cable fibre optique multimode de 100 mètres;Unité;150 000;170 000;204 000
+03.1.1.7.1.7.005;Module SFP 10 Gigabit monomode de 10 Km;Unité;114 000;130 000;156 000
+03.1.1.7.1.7.006;Module SFP 1000Base SX multimode Cisco 560m;Unité;92 000;105 000;126 000
+03.1.1.7.1.7.007;Module SFP 1000Base-LX monomode de 10Km;Unité;123 000;140 000;168 000
+03.1.1.7.1.7.008;Module SFP 100FX monomode de 20 Km PLANET MFB- TF20;Unité;202 000;230 000;276 000
+03.1.1.7.1.7.009;Module SFP 100FX multimode de 2 Km;Unité;88 000;100 000;120 000
+03.1.1.7.1.7.010;Module SFP Cisco monomode 1Gbps;Unité;97 000;110 000;132 000
+03.1.1.7.1.7.011;Module SFP Gigabit monomode de 10 Km;Unité;97 000;110 000;132 000
+03.1.1.7.1.7.012;Module SFP Gigabit multimode 2 Km;Unité;81 000;92 000;110 000
+03.1.1.7.1.7.013;Module SFP Gigabit multimode de 550 m;Unité;81 000;92 000;110 000
+03.1.1.7.1.7.014;Module SFP Gigabit WDM récepteur de 10 Km;Unité;72 000;82 000;98 000
+03.1.1.7.1.7.015;Module SFP mini-GBiC 1000SX multimode de 550m;Unité;97 000;110 000;132 000
+03.1.1.7.1.7.016;Module SFP monomode de 10 Km;Unité;97 000;110 000;132 000
+03.1.1.7.1.7.017;Module transmetteur x2-10 Gige-10GBase-X pour switch Cisco Catalyst serie 3500, 3700;Unité;114 000;130 000;156 000
+03.1.1.7.1.8;Tiroir Optique;;;;
+03.1.1.7.1.8.001;Tiroir optique 19'' monomode 12 connecteurs fc;Unité;122 000;130 000;151 000
+03.1.1.7.1.8.002;Tiroir optique 19'' monomode 12 connecteurs lc;Unité;122 000;130 000;151 000
+03.1.1.7.1.8.003;Tiroir optique 19'' monomode 12 connecteurs sc;Unité;122 000;130 000;151 000
+03.1.1.7.1.8.004;Tiroir optique 19'' monomode 12 connecteurs st;Unité;141 000;150 000;174 000
+03.1.1.7.1.8.005;Tiroir optique 19'' monomode 24 connecteurs st;Unité;196 000;208 000;241 000
+03.1.1.7.1.8.006;Tiroir optique 19'' monomode 6 connecteurs lc;Unité;71 000;75 000;87 000
+03.1.1.7.1.8.007;Tiroir optique 19'' monomode 6 connecteurs sc;Unité;71 000;75 000;87 000
+03.1.1.7.1.8.008;Tiroir optique 19'' monomode 6 connecteurs st;Unité;71 000;75 000;87 000
+03.1.1.7.1.8.010;Tiroir optique 19'' multimode 12 connecteurs sc;Unité;122 000;130 000;151 000
+03.1.1.7.1.8.011;Tiroir optique 19'' multimode 12 connecteurs st;Unité;122 000;130 000;151 000
+03.1.1.7.1.8.012;Tiroir optique 19'' multimode 24 connecteurs st;Unité;193 000;205 000;238 000
+03.1.1.7.1.8.013;Tiroir optique 19'' multimode 45 connecteurs lc/sc/ st/fc;Unité;306 000;325 000;377 000
+03.1.1.7.1.8.014;Tiroir optique 19'' multimode 45 connecteurs sc rs;Unité;329 000;350 000;406 000
+03.1.1.7.1.8.015;Tiroir optique 19'' multimode 6 connecteurs lc;Unité;71 000;75 000;87 000
+03.1.1.7.1.9;Prise murale rj45;;;;
+03.1.1.7.1.9.001;Prise murale rj45 Cat5e legrand utp 22.5X45;Unité;13 000;15 000;18 000
+03.1.1.7.1.9.002;Prise murale rj45 Cat6 legrand 45X45 ftp;Unité;18 000;20 000;24 000
+03.1.1.7.1.9.003;Prise murale rj45 Cat6 legrand 45X45 sftp;Unité;20 000;22 000;26 000
+03.1.1.7.1.9.004;prise rj45 cat6 ftp pur legrand niloé;Unité;17 000;19 000;23 000
+03.1.1.7.1.9.005;Prise téléphonique encastrable;Unité;13 000;15 000;18 000
+03.1.1.7.1.9.006;Réglette téléphonique encastrable 10/2;Unité;27 000;30 000;36 000
+03.1.1.7.1.10;Connecteurs;;;;
+03.1.1.7.1.10.001;Connecteur  Optique FC;Unité;6 000;7 000;8 000
+03.1.1.7.1.10.002;Connecteur  Optique LC;Unité;6 000;7 000;8 000
+03.1.1.7.1.10.003;Connecteur  Optique SC;Unité;6 000;7 000;8 000
+03.1.1.7.1.10.004;Connecteur  Optique ST;Unité;6 000;7 000;8 000
+03.1.1.7.1.10.005;"Connecteur à fiche banane couleur, 2,5 mm2; 50 cm";Unité;4 000;5 000;6 000
+03.1.1.7.1.10.006;Connecteur BNC Male rapide;Unité;2 500;3 000;3 500
+03.1.1.7.1.10.007;Connecteur BNC pour câble SD;Unité;6 000;7 000;8 000
+03.1.1.7.1.10.008;Connecteur fiche coupleur raccord BN;Jeu de 4;6 000;7 000;8 000
+03.1.1.7.1.10.009;Connecteur RJ11;Jeu de 100;6 000;7 000;8 000
+03.1.1.7.1.10.010;Connecteur RJ12;Jeu de 100;6 000;7 000;8 000
+03.1.1.7.1.10.011;Connecteur RJ45;Jeu de 100;7 000;9 000;10 000
+03.1.1.7.1.11;Coffret ou Baie informatique / Rack /Armoire;;;;
+03.1.1.7.1.11.001;Coffret ou baie informatique 3U largeur 35 cm;Unité;27 000;32 000;36 000
+03.1.1.7.1.11.002;Coffret ou baie informatique 4U largeur 35 cm;Unité;35 000;42 000;47 000
+03.1.1.7.1.11.004;Coffret ou baie informatique 9U largeur 35 cm;Unité;116 000;138 000;156 000
+03.1.1.7.1.11.005;Coffret ou baie réseau 22 U 600 x 600 mm;Unité;168 000;200 000;226 000
+03.1.1.7.1.11.006;Coffret ou baie réseau 22 U 800 x 800 mm;Unité;252 000;300 000;339 000
+03.1.1.7.1.11.007;Coffret ou baie réseau 27bU 600 x 600 mm;Unité;336 000;400 000;452 000
+03.1.1.7.1.11.008;Coffret ou baie réseau 32 U 600 x 600 mm;Unité;399 000;475 000;537 000
+03.1.1.7.1.11.009;Coffret ou baie réseau 42 U 800 x 800 mm;Unité;657 000;730 000;854 000
+03.1.1.7.1.11.010;Coffret ou baie serveur 18 U 600 x 1000 mm;Unité;594 000;660 000;772 000
+03.1.1.7.1.11.011;Coffret ou baie serveur 27 U 600 x 1000 mm;Unité;648 000;720 000;842 000
+03.1.1.7.1.11.012;Coffret ou baie serveur 32 U 600 x 1000 mm;Unité;666 000;740 000;866 000
+03.1.1.7.1.11.013;Coffret ou baie serveur 42 U 600 x 1100 mm;Unité;864 000;960 000;1 123 000
+03.1.1.7.1.11.014;Coffret ou baie-Rack  42 U HP Enterprise Advanced G2 126 x 200 Cm;Unité;1 525 000;1 605 000;1 878 000
+03.1.1.7.1.11.015;Coffret ou baie-Rack Amovible HP 42 U 1075mm i-series pallet rack;Unité;2 470 000;2 600 000;3 042 000
+03.1.1.7.2;INCENDIE SECURITE;;;;
+03.1.1.7.2.0.001;Fourniture et pose de tableau de détection incendie conventionnelle, 2-4-8 zones;Unité;450 000;484 900;504 700
+03.1.1.7.2.0.002;Fourniture et pose de tableau de détection incendie adressable 4 boucles y compris accessoires, battérie incluses;Unité;830 000;858 335;900 000
+03.1.1.7.2.0.003;Fourniture et pose de tableau de détection incendie adressable 8 boucles y compris accessoires, battérie incluses;Unité;1 500 000;1 616 665;1 750 000
+03.1.1.7.2.0.004;Fourniture et pose de câble C2 1 paire 9/10ème pour le câblage des déclencheurs manuels , détecteurs de fumée et des indicateurs d'action;ml;12 500;13 750;15 000
+03.1.1.7.2.0.005;Fourniture et pose de câble résistant au feu CR1 2x1.5 mm² pour pour le câblage des diffuseurs sonores;ml;12 500;13 750;15 000
+03.1.1.7.2.0.006;Fourniture et pose de détecteur  optique de fumée;Unité;40 000;42 500;45 000
+03.1.1.7.2.0.007;Fourniture et pose de déclencheur manuel;Unité;12 500;13 750;15 000
+03.1.1.7.2.0.009;Fourniture et pose d'avertisseur sonore;Unité;12 500;13 750;15 000
+03.1.1.7.2.0.010;Fourniture et pose bloc autonome  d'éclairage d'ambiances de 360 lumens autonomie 1h;Unité;12 500;13 750;15 000
+03.1.1.7.2.0.011;Fourniture et pose bloc autonome  d'éclairage de sécurité avec étiquette 60 lumens autonomie 1h;Unité;12 500;13 750;15 000
+03.1.1.7.2.0.012;Fourniture et pose  RIA DN=33 cm et L=30 m;Unité;600 000;640 875;700 000
+03.1.1.7.2.0.013;Fourniture et pose  surpresseur incendie de 8m³/h;Unité;650 000;676 650;700 000
+03.1.1.7.2.0.014;Fourniture et pose extincteur sur roue à poudre polyvalent ABC de 5 kg;Unité;55 000;58 725;60 000
+03.1.1.7.2.0.015;Fourniture et pose extincteur sur roue à poudre polyvalent ABC de 10 kg;Unité;73 000;74 015;75 000
+03.1.1.7.2.0.016;Fourniture et pose extincteur sur roue à poudre polyvalent ABC de 15 kg;Unité;105 000;113 500;120 000
+03.1.1.7.2.0.017;Fourniture et pose extincteur sur roue à poudre polyvalent ABC de 20 kg;Unité;135 000;142 035;145 000
+03.1.1.7.2.0.018;Fourniture et pose extincteur sur roue à poudre polyvalent ABC de 25 kg;Unité;185 000;190 000;200 000
+03.1.1.7.2.0.019;Fourniture et pose extincteur sur roue à poudre polyvalent ABC de 50 kg;Unité;386 100;394 965;400 000
+03.1.1.7.2.0.020;Fourniture et pose extincteur sur roue à pulvérisée eau de 5 l;Unité;64 300;66 390;70 000
+03.1.1.7.2.0.021;Fourniture et pose extincteur sur roue à eau pulvérisée de 10 l;Unité;70 000;74 140;76 250
+03.1.1.7.2.0.022;Fourniture et pose extincteur sur roue à eau pulvérisée de 15 l;Unité;110 000;116 250;120 000
+03.1.1.7.2.0.023;Fourniture et pose extincteur sur roue à eau pulvérisée de 20 l;Unité;135 000;144 800;150 000
+03.1.1.7.2.0.024;Fourniture et pose extincteur sur roue à eau pulvérisée de 25 l;Unité;185 800;193 325;200 000
+03.1.1.7.2.0.025;Fourniture et pose extincteur sur roue à eau pulvérisée de 50 l;Unité;387 500;421 875;450 000
+03.1.1.7.2.0.026;Fourniture et pose extincteur portatif à eau pulvérisée de 6 l;Unité;65 000;69 375;75 000
+03.1.1.7.2.0.027;Fourniture et pose extincteur portatif à eau pulvérisée de 9 l;Unité;78 000;84 525;90 000
+03.1.1.7.2.0.029;Fourniture et pose extincteur portatif à poudre polyvalent ABC de 9kg;Unité;87 000;88 835;90 000
+03.1.1.7.2.0.030;Fourniture et pose extincteur portatif  au dioxyde de carbone C02 de 6kg;Unité;65 000;66 575;70 000
+03.1.1.7.2.0.031;Fourniture et pose extincteur portatif  au dioxyde de carbone C02 de 9kg;Unité;81 665;85 890;90 000
+03.1.1.7.2.0.032;Fourniture et pose de panneau de consigne de sécurité incendie;Unité;62 500;65 750;72 000
+03.1.1.7.2.0.033;Fourniture et pose de plan d'évacuation et d'intervention format A3 rigide resistant à l'eau;Unité;83 600;87 150;90 000
+03.1.1.7.3;PLOMBERIE SANITAIRE;;;;
+03.1.1.7.3.0.001;Dispositif en béton armé pour lave main;Unité;60 000;65 000;70 000
+03.1.1.7.3.0.002;Tuyauteries d'alimentation type PPR, y compris  accessoires de pose et de raccordement (Ø25);ml;2 000;2 075;2 250
+03.1.1.7.3.0.003;Tuyauteries d'alimentation type PPR, y compris  accessoires de pose et de raccordement (Ø32);ml;2 000;2 110;2 250
+03.1.1.7.3.0.004;Tuyauteries d'alimentation type PPR, y compris  accessoires de pose et de raccordement (Ø63);ml;5 750;6 235;6 600
+03.1.1.7.3.0.005;Tuyauteries d'évacuation type PVC, y compris  accessoires de pose et de raccordement (Ø63);ml;1 500;1 575;1 650
+03.1.1.7.3.0.006;Tuyauteries d'évacuation type PVC, y compris  accessoires de pose et de raccordement (Ø100);ml;1 565;2 500;2 750
+03.1.1.7.3.0.007;Tuyauteries d'évacuation type PVC, y compris  accessoires de pose et de raccordement (Ø120);ml;8 500;8 650;8 800
+03.1.1.7.3.0.008;Tuyauteries d'évacuation type PVC, y compris  accessoires de pose et de raccordement (Ø200);ml;10 650;10 800;10 950
+03.1.1.7.3.0.010;Fosse septique 15 usagers (fosse + drain + puisard);Unité;650 000;675 000;700 000
+03.1.1.7.3.0.011;Fosse septique 20 usagers (fosse + drain + puisard);Unité;830 000;872 500;915 000
+03.1.1.7.3.0.012;Fosse septique 30 usagers (fosse + drain + puisard);Unité;1 375 000;1 446 675;1 500 000
+03.1.1.7.3.0.013;Fosse septique 40 usagers (fosse + drain + puisard);Unité;1 625 000;1 696 675;1 750 000
+03.1.1.7.3.0.014;Fosse septique 60 usagers (fosse + drain + puisard);Unité;2 453 200;2 625 800;2 850 000
+03.1.1.7.3.0.015;Fosse septique 90 usagers (fosse + drain + puisard);Unité;2 803 200;2 975 800;3 200 000
+03.1.1.7.3.0.016;Fosse septique 150 usagers (fosse + drain + puisard);Unité;3 303 200;3 475 800;3 700 000
+03.1.1.7.3.0.017;Fosse septique 200 usagers (fosse + drain + puisard);Unité;4 553 200;4 725 800;4 950 000
+03.1.1.7.3.0.018;Fourniture et pose cabine de douche y compris toutes sujétions;Unité;600 000;640 000;700 000
+03.1.1.7.3.0.019;Fourniture et pose de Baignoire type rectangulaire standard y compris toutes sujétions;Unité;450 000;474 000;500 000
+03.1.1.7.3.0.020;Fourniture et pose de Colonne orientable de douche y compris toutes sujétions;Unité;17 000;17 800;19 000
+03.1.1.7.3.0.021;Fourniture et pose de Glace de lavabo y compris toutes sujétions;Unité;9 000;9 500;10 000
+03.1.1.7.3.0.022;Fourniture et pose de Gouttière en PVC y compris toutes sujétions;ml;680;722;750
+03.1.1.7.3.0.023;Fourniture et pose de lavabo  complet  de 40 y compris toutes sujétions;Unité;215 000;233 000;250 000
+03.1.1.7.3.0.024;Fourniture et pose de lavabo  complet  de 60 y compris toutes sujétions;Unité;225 000;243 000;260 000
+03.1.1.7.3.0.025;Fourniture et pose de lavabo complet de 40  encastré  y compris toutes sujétions;Unité;240 000;258 000;275 000
+03.1.1.7.3.0.026;Fourniture et pose de lavabo complet de 60 encastré y compris toutes sujétions;Unité;255 000;273 000;290 000
+03.1.1.7.3.0.028;Fourniture et pose de robinet mitiger y compris toutes sujétions;Unité;25 000;26 040;27 700
+03.1.1.7.3.0.029;Fourniture et pose de robinet mélangeur y compris toutes sujétions;Unité;25 000;26 040;27 700
+03.1.1.7.3.0.030;Fourniture et pose de Porte papier hygiénique y compris toutes sujétions;Unité;4 000;4 150;4 500
+03.1.1.7.3.0.031;Fourniture et pose de Porte savon y compris toutes sujétions;Unité;4 000;4 150;4 500
+03.1.1.7.3.0.032;Fourniture et pose de Porte serviette y compris toutes sujétions;Unité;7 500;7 700;8 000
+03.1.1.7.3.0.033;Fourniture et pose de receveur de douche y compris toutes sujétions;Unité;12 500;13 700;15 000
+03.1.1.7.3.0.034;Fourniture et pose de siphon de sol y compris toutes sujétions;Unité;1 750;1 900;2 000
+03.1.1.7.3.0.035;Fourniture et pose de réservoir d'eau en plastique (polytank ou équivalent) de 1000l y compris accessoires de pose;Unité;325 000;344 000;375 000
+03.1.1.7.3.0.036;Fourniture et pose de réservoir d'eau en plastique (polytank) de 2000l y compris accessoires de pose;Unité;450 000;469 000;500 000
+03.1.1.7.3.0.037;Fourniture et pose de réservoir d'eau en plastique (polytank) de 5000l y compris accessoires de pose;Unité;495 000;514 000;545 000
+03.1.1.7.3.0.038;Fourniture et pose de Urinoir y compris toutes sujétions;Unité;75 000;78 120;85 000
+03.1.1.7.3.0.039;Fourniture et pose de vidoirs y compris toutes sujétions;Unité;75 000;78 120;85 000
+03.1.1.7.3.0.040;Fourniture et pose de WC à la turc y compris toutes sujétions;Unité;75 000;78 120;85 000
+03.1.1.7.3.0.041;Fourniture et pose de WC à l'anglaise chasse basse poussoir double y compris toutes sujétions;Unité;105 000;113 730;120 000
+03.1.1.7.3.0.042;Fourniture et pose de WC à l'anglaise chasse basse poussoir simple y compris toutes sujétions;Unité;120 000;121 500;125 000
+03.1.1.7.3.0.043;Fourniture et pose d'évier double bac pour cuisine en acier ionxydable avec accessoires y compris toutes sujétions;Unité;100 000;105 220;115 000
+03.1.1.7.3.0.045;Fourniture et pose d'évier un bac en acier ionxydable y compris toutes sujétions;Unité;95 000;103 000;112 500
+03.1.1.7.3.0.046;Fourniture et pose d'évier un bac en porcelaine y compris toutes sujétions;Unité;120 000;127 500;135 000
+03.1.1.7.3.0.047;Fourniture et pose de reducteur en  galva 5/10;Unité;250;275;300
+03.1.1.7.3.0.048;Fourniture et pose de reducteur en  galva 8/13;Unité;375;400;425
+03.1.1.7.3.0.049;Fourniture et pose de reducteur en  galva 12/17;Unité;500;525;550
+03.1.1.7.3.0.050;Fourniture et pose de reducteur en  galva 15/21;Unité;625;650;675
+03.1.1.7.3.0.051;Fourniture et pose de reducteur en  galva de 16;Unité;1 625;1 650;1 675
+03.1.1.7.3.0.052;Fourniture et pose de reducteur en  galva de 20/27;Unité;1 975;2 000;2 025
+03.1.1.7.3.0.053;Fourniture et pose de reducteur en  galva de 26/34;Unité;2 325;2 350;2 375
+03.1.1.7.3.0.054;Fourniture et pose de reducteur en  galva de 33/42;Unité;2 675;2 700;2 725
+03.1.1.7.3.0.055;Fourniture et pose de reducteur en  galva de 40;Unité;3 425;3 450;3 475
+03.1.1.7.3.0.056;Fourniture et pose de reducteur en  galva de 40/49;Unité;3 500;3 655;3 725
+03.1.1.7.3.0.057;Fourniture et pose de reducteur en  galva de 50;Unité;3 600;3 755;3 825
+03.1.1.7.3.0.058;Fourniture et pose de reducteur en  galva de 50/60;Unité;3 700;3 855;3 925
+03.1.1.7.3.0.059;Fourniture et pose de reducteur en  galva de 60/70;Unité;3 800;3 955;4 025
+03.1.1.7.3.0.060;Fourniture et pose de reducteur en  galva de 63;Unité;3 900;4 055;4 125
+03.1.1.7.3.0.061;Fourniture et pose de reducteur en  galva de 66/76;Unité;4 000;4 155;4 225
+03.1.1.7.3.0.062;Fourniture et pose de reducteur en  galva de 75;Unité;4 100;4 255;4 325
+03.1.1.7.3.0.063;Fourniture et pose de reducteur en  galva de 80/90;Unité;4 200;4 355;4 425
+03.1.1.7.3.0.064;Fourniture et pose de reducteur en  galva de 92/102;Unité;4 300;4 455;4 525
+03.1.1.7.3.0.065;Fourniture et pose de reducteur en  galva de 100;Unité;4 400;4 555;4 625
+03.1.1.7.3.0.066;Fourniture et pose de reducteur en  galva de 102/114;Unité;4 500;4 655;4 725
+03.1.1.7.3.0.067;Fourniture et pose de reducteur en  galva de 110;Unité;4 600;4 755;4 825
+03.1.1.7.3.0.068;Fourniture et pose de reducteur en  galva de 127/140;Unité;4 700;4 855;4 925
+03.1.1.7.3.0.069;Fourniture et pose de reducteur en  galva de 127/141;Unité;4 800;4 955;5 025
+03.1.1.7.3.0.071;Regard  d'évacuation 100x100x50 cm en agglos pleins de 10x20x40 avec couvercle en béton y compris toutes sujétions;Unité;25 000;26 000;27 500
+03.1.1.7.3.0.072;Regard de visite EU/EV 40x40x40 avec dalle de couverture en béton armé y compris toutes sujétions;Unité;30 000;31 000;32 500
+03.1.1.7.3.0.073;Realisation d'un puisard de diametre 1,5 m et profondeur 2 m y compris toutes sujetions;Unité;125 000;137 000;150 000
+03.1.1.7.3.0.074;Tuyaux PVC de Ø=100 avec grillage anti-moustiquaire pour ventilation des fosses y compris toutes sujétions;ml;1 300;1 430;1 500
+03.1.1.8;REVETEMENT-CARRELAGE-ETANCHEITE;;;;
+03.1.1.8.0.0.001;Fourniture et pose de carreaux grés cérame mât 10x60 cm;m²;13 500;14 260;15 000
+03.1.1.8.0.0.002;Fourniture et pose de carreaux grés cérame mât 15x15 cm;m²;13 500;14 260;15 000
+03.1.1.8.0.0.003;Fourniture et pose de carreaux grés cérame mât 20x20 cm;m²;13 500;14 260;15 000
+03.1.1.8.0.0.004;Fourniture et pose de carreaux grés cérame mât 20x30 cm;m²;13 500;14 260;15 000
+03.1.1.8.0.0.005;Fourniture et pose de carreaux grés cérame mât 30x30 cm;m²;13 500;14 260;15 000
+03.1.1.8.0.0.006;Fourniture et pose de carreaux grés cérame mât 40x40 cm;m²;13 500;14 260;15 000
+03.1.1.8.0.0.007;Fourniture et pose de carreaux grés cérame  mât 50x50 cm;m²;13 500;14 260;15 000
+03.1.1.8.0.0.008;Fourniture et pose de carreaux grés cérame mât 60x60 cm;m²;13 500;14 260;15 000
+03.1.1.8.0.0.009;Fourniture et pose de carreaux grés cérame émaillé 10x60 cm;m²;18 000;18 900;20 000
+03.1.1.8.0.0.010;Fourniture et pose de carreaux grés cérame émaillé  15x15 cm;m²;18 000;18 900;20 000
+03.1.1.8.0.0.011;Fourniture et pose de carreaux grés cérame émaillé  20x20 cm;m²;18 000;18 900;20 000
+03.1.1.8.0.0.012;Fourniture et pose de carreaux grés cérame émaillé 20x30 cm;m²;18 000;18 900;20 000
+03.1.1.8.0.0.013;Fourniture et pose de carreaux grés cérame émaillé 30x30 cm;m²;18 000;18 900;20 000
+03.1.1.8.0.0.014;Fourniture et pose de carreaux grés cérame émaillé 40x40 cm;m²;18 000;18 900;20 000
+03.1.1.8.0.0.015;Fourniture et pose de carreaux grés cérame  émaillé 50x50 cm;m²;18 000;18 900;20 000
+03.1.1.8.0.0.016;Fourniture et pose de carreaux grés cérame émaillé  60x60 cm;m²;18 000;18 900;20 000
+03.1.1.8.0.0.017;Fourniture et pose de carreaux grés cérame antidérapant 20x20 cm;m²;9 500;10 260;11 000
+03.1.1.8.0.0.019;Fourniture et pose de carreaux grés cérame antidérapant 30x30 cm;m²;14 000;14 900;16 000
+03.1.1.8.0.0.020;Fourniture et pose de carreaux grés cérame antidérapant 40x40 cm;m²;14 000;14 900;16 000
+03.1.1.8.0.0.021;Fourniture et pose de carreaux grés cérame antidérapant 50x50 cm;m²;14 000;14 900;16 000
+03.1.1.8.0.0.022;Fourniture et pose de carreaux grés cérame antidérapant 60x60 cm;m²;14 000;14 900;16 000
+03.1.1.8.0.0.023;Fourniture et pose de carreaux grés cérame polis  10x60 cm;m²;20 200;21 100;22 200
+03.1.1.8.0.0.024;Fourniture et pose de carreaux grés cérame polis 15x15 cm;m²;20 200;21 100;22 200
+03.1.1.8.0.0.025;Fourniture et pose de carreaux grés cérame polis  20x20 cm;m²;20 200;21 100;22 200
+03.1.1.8.0.0.026;Fourniture et pose de carreaux grés cérame polis 20x30 cm;m²;20 200;21 100;22 200
+03.1.1.8.0.0.027;Fourniture et pose de carreaux grés cérame polis  30x30 cm;m²;20 200;21 100;22 200
+03.1.1.8.0.0.028;Fourniture et pose de carreaux grés cérame polis  40x40 cm;m²;20 200;21 100;22 200
+03.1.1.8.0.0.029;Fourniture et pose de carreaux grés cérame polis  50x50 cm;m²;20 200;21 100;22 200
+03.1.1.8.0.0.030;Fourniture et pose de carreaux grés cérame polis  60x60 cm;m²;20 200;21 100;22 200
+03.1.1.8.0.0.031;Fourniture et pose de carreaux faïence 10x10 cm;m²;8 000;8 800;9 500
+03.1.1.8.0.0.032;Fourniture et pose de carreaux faïence 15x15 cm;m²;8 000;8 800;9 500
+03.1.1.8.0.0.033;Fourniture et pose de carreaux faïence 20x20 cm;m²;8 000;8 800;9 500
+03.1.1.8.0.0.034;Fourniture et pose de carreaux faïence 20x30 cm;m²;8 000;8 800;9 500
+03.1.1.8.0.0.035;Fourniture et pose de carreaux faïence 30x30 cm;m²;8 000;8 800;9 500
+03.1.1.8.0.0.036;Fourniture et pose de carreaux faïence 40x40 cm;m²;8 000;8 800;9 500
+03.1.1.8.0.0.037;Fourniture et pose de moquette y compris toute sujétion;m²;8 000;8 800;10 000
+03.1.1.8.0.0.038;Fourniture et pose de bitume pour étanchéité multicouche y compris toutes sujétions;m²;22 400;22 980;25 000
+03.1.1.8.0.0.039;Fourniture et pose de complexe d'étanchéité avec surface de finition en irène y compris toutes sujétions;m²;22 400;22 980;25 000
+03.1.1.9;CHARPENTE COUVERTURE-PEINTURE;;;;
+03.1.1.9.1;CHARPENTE COUVERTURE;;;;
+03.1.1.9.1.0.001;Confection, fourniture et pose des platines pour fixation des IPN y compris toute sujétion;Unité;8 500;9 100;10 000
+03.1.1.9.1.0.002;Fourniture et pose de  crochet complet;Unité;500;515;530
+03.1.1.9.1.0.003;Fourniture et pose échantignole métallique traité de l'antirouille;Unité;20 750;21 815;23 500
+03.1.1.9.1.0.004;Fourniture et pose de tôle faitière;m²;8 900;9 350;10 000
+03.1.1.9.1.0.005;Fourniture et pose de bande feutre bitumineux sur panne;ml;4 000;4 165;4 250
+03.1.1.9.1.0.006;Fourniture et pose de charpente bois rouge en chevron 8x8 cm;ml;2 300;2 500;2 700
+03.1.1.9.1.0.007;Fourniture et pose de charpente en basting;ml;13 500;14 250;15 000
+03.1.1.9.1.0.008;Fourniture et pose de ferme métallique en cornière accolée de 40;ml;115 000;125 000;135 000
+03.1.1.9.1.0.009;Fourniture et pose de couverture en tôle bac  galva 35/100 quatre  ondulations y compris toutes sujétions de pose;m²;5 125;5 475;6 000
+03.1.1.9.1.0.010;Fourniture et pose de couverture en tôle bac  galva 35/100 trois ondulations y compris toutes sujétions de pose y compris toutes sujétions de pose;m²;5 875;6 225;6 750
+03.1.1.9.1.0.011;Fourniture et pose de couverture en tôle bac alu 35/100 quatre ondulations y compris toutes sujétions de pose;m²;5 700;5 815;6 000
+03.1.1.9.1.0.012;Fourniture et pose de couverture en tôle bac alu 35/100 trois ondulations y compris toutes sujétions de pose;m²;6 450;6 565;6 750
+03.1.1.9.1.0.013;Fourniture et pose de couverture en tôle bac  galva 45/100 quatre  ondulations y compris toutes sujétions de pose;m²;6 500;6 685;6 800
+03.1.1.9.1.0.015;Fourniture et pose de couverture en tôle bac alu 45/100 quatre ondulations y compris toutes sujétions de pose;m²;6 500;6 750;7 000
+03.1.1.9.1.0.016;Fourniture et pose de couverture en tôle bac alu 45/100 trois ondulations y compris toutes sujétions de pose;m²;6 500;6 750;7 000
+03.1.1.9.1.0.017;Fourniture et pose de couverture en tôle bac alu 60/100 quatre ondulations y compris toutes sujétions de pose;m²;13 000;14 000;15 000
+03.1.1.9.1.0.018;Fourniture et pose de couverture en tôle bac alu 60/100 trois ondulations y compris toutes sujétions de pose;m²;13 000;14 000;15 000
+03.1.1.9.1.0.019;Fourniture et pose de couverture en tôle bac alu zinc 35/100 quatre ondulationsy compris toutes sujétions de pose;m²;5 700;5 815;6 000
+03.1.1.9.1.0.020;Fourniture et pose de couverture en tôle bac alu zinc 35/100 trois ondulations y compris toutes sujétions de pose;m²;6 700;6 815;7 000
+03.1.1.9.1.0.021;Fourniture et pose de couverture en tôle bac alu zinc 45/100 quatre ondulationsy compris toutes sujétions de pose;m²;7 700;7 815;8 000
+03.1.1.9.1.0.022;Fourniture et pose de couverture en tôle bac alu zinc 45/100 trois ondulations y compris toutes sujétions de pose;m²;8 700;8 815;9 000
+03.1.1.9.1.0.023;Fourniture et pose de couverture en tôle bac alu zinc 60/100 quatre ondulations y compris toutes sujétions de pose;m²;14 000;14 665;15 000
+03.1.1.9.1.0.024;Fourniture et pose de couverture en tôle bac alu zinc 60/100 trois ondulations y compris toutes sujétions de pose;m²;15 000;15 665;16 000
+03.1.1.9.1.0.025;Fourniture et pose de couverture en tôle bac translucide 60/100 quatre ondulations y compris toutes sujétions de pose;m²;16 000;16 665;17 000
+03.1.1.9.1.0.026;Fourniture et pose de couverture en tôle ondulée y compris toutes sujétions de pose;m²;4 500;4 750;5 000
+03.1.1.9.1.0.027;Fourniture et pose de couverture en tôle prelaquée 60/100 quatre ondulations y compris toutes sujétions de pose;m²;15 000;15 665;16 000
+03.1.1.9.1.0.029;Fourniture et pose de couverture tôle en panneau sandwich de 5cm d'épaissuer y compris toutes sujétions de pose;m²;40 000;42 500;45 000
+03.1.1.9.1.0.030;Fourniture et pose de couverture en tuile cuite;m²;21 500;22 000;22 500
+03.1.1.9.1.0.031;Fourniture et pose de couverture tuile metallique prelaquée 60/100 y compris toutes sujétions de pose;m²;15 000;15 500;16 000
+03.1.1.9.1.0.032;Fourniture et pose de Faîtière en tôle translucide;Unité;13 000;13 250;13 500
+03.1.1.9.1.0.033;Fourniture et pose de panne en IPE 80 traité à l'antirouille;ml;14 500;14 800;15 000
+03.1.1.9.1.0.034;Fourniture et pose de panne en IPE 80 traité à l'antirouille;kg;2 500;2 610;2 700
+03.1.1.9.1.0.035;Fourniture et pose de panne en IPE 100 traité de l'antirouille;ml;15 000;15 635;16 000
+03.1.1.9.1.0.036;Fourniture et pose de panne en IPE 100 traité de l'antirouille;kg;2 500;2 610;2 700
+03.1.1.9.1.0.037;Fourniture et pose de panne en IPE 120 traité à l'antirouille;ml;17 000;17 500;18 000
+03.1.1.9.1.0.038;Fourniture et pose de panne en IPE 120 traité à l'anti rouille;kg;2 500;2 610;2 700
+03.1.1.9.1.0.039;Fourniture et pose de panne en IPE 140  traité à l'antirouille;ml;18 000;18 500;19 000
+03.1.1.9.1.0.040;Fourniture et pose de panne en IPE 140 traité à l'antirouille;kg;2 500;2 610;2 700
+03.1.1.9.1.0.041;Fourniture et pose de panne en IPN 80  traité à l'antirouille;ml;14 400;14 635;15 000
+03.1.1.9.1.0.042;Fourniture et pose de panne en IPN 80 traité à l'antirouille;kg;2 500;2 610;2 700
+03.1.1.9.1.0.043;Fourniture et pose de panne en IPN 100  traité de l'antirouille;ml;15 000;15 300;15 500
+03.1.1.9.1.0.044;Fourniture et pose de panne en IPN 100 traité de l'antirouille;kg;2 500;2 610;2 700
+03.1.1.9.1.0.045;Fourniture et pose de panne en IPN 120  traité à l'antirouille;ml;16 500;17 165;17 500
+03.1.1.9.1.0.046;Fourniture et pose de panne en IPN 120 traité à l'antirouille;kg;2 500;2 610;2 700
+03.1.1.9.1.0.047;Fourniture et pose de panne en IPN 140  traité à l'antirouille;ml;16 500;17 415;18 000
+03.1.1.9.1.0.048;Fourniture et pose de panne en IPN 140 traité à l'antirouille;kg;2 500;2 610;2 700
+03.1.1.9.1.0.049;Fourniture et pose de panne en tube métallique rectangulaire de 100x60 cm d'épaisseur 3 mm traité de l'antirouille;ml;4 900;5 050;5 250
+03.1.1.9.1.0.050;Fourniture et pose de panne en tube métallique rectangulaire de 60x60 cm d'épaisseur 3 mm traité de l'antirouille;ml;5 000;5 140;5 250
+03.1.1.9.1.0.052;Fourniture et pose de panne en tube métallique rectangulaire de 80x40 cm d'épaisseur 3 mm  traité de l'antirouille;ml;5 000;5 140;5 250
+03.1.1.9.2;PEINTURE;;;;
+03.1.1.9.2.0.001;Enduit platre;m²;2 750;2 990;3 250
+03.1.1.9.2.0.002;Peinture à eau;m²;3 250;3 490;3 750
+03.1.1.9.2.0.003;Peinture acrylique (à eau lavable);m²;3 750;3 990;4 250
+03.1.1.9.2.0.004;Peinture vinylique;m²;2 500;2 575;2 750
+03.1.1.9.2.0.005;Peinture à huile;m²;3 500;3 740;4 000
+03.1.1.9.2.0.006;Peinture glycérophtalique;m²;4 000;4 240;4 500
+03.1.1.9.2.0.007;Peinture polyuréthane;m²;4 500;4 740;5 000
+03.1.1.9.2.0.008;Peinture plastique de finition à grain fin ou gros grin y compris fixateur et toute sujétion de pose (marmorex ou équivalent);m²;8 500;9 095;10 000
+03.1.1.9.2.0.009;Peinture plastique de finition frotassé y compris fixateur et toute sujétion de pose;m²;8 500;9 095;10 000
+03.1.1.9.2.0.010;Peinture decorative;m²;16 000;16 595;17 500
+03.1.1.9.2.0.011;Revetement mural en panneau aluminium;m²;45 000;47 415;52 000
+03.1.1.9.2.0.012;Vernis sur faux plafond meublé;m²;3 750;4 040;4 400
+03.1.1.9.2.0.013;Vernis sur  briquette de parement;m²;3 750;4 040;4 400
+03.1.2;REFECTION  BATIMENT;;;;
+03.1.2.1;DEMOLITION ET DEPOSE;;;;
+03.1.2.1.0.0.001;Décapage du carrelage;m²;2 150;2 290;2 500
+03.1.2.1.0.0.002;Décapage du complexe d'étancheité multicouche;m²;1 500;1 630;1 750
+03.1.2.1.0.0.003;Décapage du relevé d'étancheité au paxalumin;m²;1 500;1 630;1 750
+03.1.2.1.0.0.004;Décapage de l'aire de dallage en béton;m²;5 500;5 630;5 750
+03.1.2.1.0.0.005;Décapage de l'aire de dallage en béton armé;m²;6 500;6 630;6 750
+03.1.2.1.0.0.006;Décapage de l'enduit;m²;2 150;2 330;2 500
+03.1.2.1.0.0.008;Démolition d'ouvrage en béton;m²;5 500;5 630;5 750
+03.1.2.1.0.0.009;Démolition d'ouvrage  en béton armé;m²;6 500;6 630;6 750
+03.1.2.1.0.0.010;Dépose de brasseur d'air plafonnier;Unité;1 250;1 370;1 500
+03.1.2.1.0.0.011;Dépose de climatiseur split system;Unité;6 750;6 880;7 000
+03.1.2.1.0.0.012;Dépose de reglette;Unité;1 250;1 370;1 500
+03.1.2.1.0.0.013;Dépose de moquette;m²;1 100;1 200;1 250
+03.1.2.1.0.0.014;Dépose de porte alu vitrée;Unité;2 500;2 750;3 000
+03.1.2.1.0.0.015;Dépose de porte isoplane;Unité;2 500;2 750;3 000
+03.1.2.1.0.0.016;Dépose de fenetre metallique;Unité;2 500;2 750;3 000
+03.1.2.1.0.0.017;Dépose de porte metallique;Unité;2 500;2 750;3 000
+03.1.2.1.0.0.018;Dépose de porte metallique vitrée;Unité;2 500;2 750;3 000
+03.1.2.1.0.0.019;Dépose de serrures pour portes de placard;Unité;250;275;300
+03.1.2.1.0.0.020;Dépose de serrures pour portes isoplanes ou métalliques;Unité;2 500;2 730;3 000
+03.1.2.1.0.0.021;Dépose de faux plafond  y compris solivage;Unité;2 500;2 730;3 000
+03.1.2.1.0.0.022;Dépose Baignoire;unité;10 000;11 000;12 000
+03.1.2.1.0.0.023;Dépose Bidet;Unité;1 250;1 370;1 500
+03.1.2.1.0.0.024;Dépose cabine de douche;Unité;1 250;1 370;1 500
+03.1.2.1.0.0.025;Dépose Colonne de douche;Unité;1 250;1 370;1 500
+03.1.2.1.0.0.026;Dépose Colonne de douche double;Unité;1 250;1 370;1 500
+03.1.2.1.0.0.027;Dépose d'évier un bac en acier ionxydable;Unité;2 250;2 370;2 500
+03.1.2.1.0.0.028;Dépose d'évier un bac en porcelaine;Unité;3 250;3 370;3 500
+03.1.2.1.0.0.029;Dépose d'évier double bac pour cuisine en acier ionxydable avec accessoires;Unité;4 250;4 370;4 500
+03.1.2.1.0.0.030;Dépose d'évier double bac pour cuisine en porcelaine avec accessoires;Unité;5 250;5 370;5 500
+03.1.2.1.0.0.031;Dépose de glace de lavabo;Unité;1 150;1 200;1 250
+03.1.2.1.0.0.032;Dépose de gouttière en PVC;Unité;1 250;1 370;1 500
+03.1.2.1.0.0.033;Dépose de jacuzzi;Unité;17 500;19 000;20 000
+03.1.2.1.0.0.035;Dépose de lavabo complet;Unité;2 250;2 370;2 500
+03.1.2.1.0.0.036;Dépose de lavabo complet sur console;Unité;7 250;7 370;7 500
+03.1.2.1.0.0.037;Dépose de lavabo meuble complet;Unité;7 250;7 370;7 500
+03.1.2.1.0.0.038;Dépose de lave-main double bac;Unité;2 250;2 370;2 500
+03.1.2.1.0.0.039;Dépose de robinet mitigeur;Unité;1 250;1 370;1 500
+03.1.2.1.0.0.040;Dépose de robinet mélageur;Unité;1 250;1 370;1 500
+03.1.2.1.0.0.041;Dépose de porte papier hygiénique;Unité;250;275;300
+03.1.2.1.0.0.042;Dépose de porte savon;Unité;250;275;300
+03.1.2.1.0.0.043;Dépose de porte serviette;Unité;250;275;300
+03.1.2.1.0.0.044;Dépose de receveur de douche;Unité;2 250;2 370;2 500
+03.1.2.1.0.0.045;Dépose de siphon de sol;Unité;250;275;300
+03.1.2.1.0.0.046;Dépose de tuyauterie d'évacuation et d'alimentation;ml;250;275;300
+03.1.2.1.0.0.047;Dépose d'urinoir;Unité;2 250;2 370;2 500
+03.1.2.1.0.0.048;Dépose de vidoirs;Unité;2 250;2 370;2 500
+03.1.2.1.0.0.049;Dépose de WC à la turc;Unité;2 250;2 370;2 500
+03.1.2.1.0.0.050;Dépose de WC à l'anglaise chasse basse poussoir double;Unité;2 250;2 370;2 500
+03.1.2.1.0.0.051;Dépose de WC à l'anglaise chasse basse poussoir simple;Unité;2 250;2 370;2 500
+03.1.2.1.0.0.052;Dépose de WC à l'anglaise chasse basse tirette;Unité;2 250;2 370;2 500
+03.1.2.2;PEINTURE;;;;
+03.1.2.2.0.0.001;Grattage et nettoyage de vernis sous faux plafond meuble;m²;850;910;1 000
+03.1.2.2.0.0.002;Grattage et nettoyage de peinture glycérophtalique sur menuiserie métallique et bois;m²;850;910;1 000
+03.1.2.2.0.0.003;Grattage et nettoyage de peinture plastique de finition à grain fin ou gros grin sur murs;m²;850;910;1 000
+03.1.2.2.0.0.004;Grattage et nettoyage de peinture vinylique sous faux plafond;m²;850;910;1 000
+03.1.2.2.0.0.005;Grattage et nettoyage de peinture vinylique sur murs;m²;850;910;1 000
+03.1.2.2.0.0.006;Grattage et nettoyage d'enduit tyrolien;m²;850;910;1 000
+03.1.3;TRAVAUX D'AMENAGEMENT ET ESPACE VERT;;;;
+03.1.3.0.0.0.002;Fourniture et pose Bordures prefabriquées type T2;ml;13 500;14 160;15 000
+03.1.3.0.0.0.003;Fourniture et pose Bordures de luxe prefabriquées 12x20x50 cm;ml;13 500;14 160;15 000
+03.1.3.0.0.0.004;Fourniture et pose Pavés ordinaire d'epaisseur 6cm;m²;8 500;9 100;10 000
+03.1.3.0.0.0.005;Fourniture et pose Pavés ordinaire d'epaisseur 8cm;m²;9 000;9 600;10 500
+03.1.3.0.0.0.006;Fourniture et pose Pavés ordinaire d'epaisseur 10cm;m²;11 000;11 600;12 500
+03.1.3.0.0.0.007;Fourniture et pose Pavés ordinaire d'epaisseur 12cm;m²;12 000;12 600;13 500
+03.1.3.0.0.0.008;Fourniture et pose Pavés de luxe d'epaisseur 6cm;m²;10 000;10 600;11 500
+03.1.3.0.0.0.009;Fourniture et pose Pavés de luxe d'epaisseur 8cm;m²;11 000;11 600;12 500
+03.1.3.0.0.0.010;Fourniture et pose Pavés de luxe d'epaisseur 10cm;m²;12 750;13 350;14 250
+03.1.3.0.0.0.011;Fourniture et pose Pavés de luxe d'epaisseur 12cm;m²;14 000;14 600;15 500
+03.1.3.0.0.0.012;Fourniture et pose Granite concassé (5 à 10 mm);m³;13 000;14 100;15 000
+03.1.3.0.0.0.013;Fourniture et pose Granite concassé (10 à 30 mm);m³;13 000;14 100;15 000
+03.1.3.0.0.0.014;Fourniture et pose Terre végétale;m³;2 500;2 750;3 000
+03.1.3.0.0.0.015;Fourniture et pose Gazon naturel;m²;4 250;4 600;5 000
+03.1.3.0.0.0.016;Fourniture et pose Gazon synthétique;m²;22 500;23 700;25 000
+03.1.3.0.0.0.017;Fourniture et pose Plante ornementale;Unité;13 200;14 140;15 000
+03.1.3.0.0.0.018;Fourniture et pose de lampe fluorescent d'éclairage de jardin de 1m de hauteur;Unité;22 000;22 800;25 000
+03.1.3.0.0.0.019;Fourniture et pose de lampe LED de 3w d'éclairage de jardin de 1m de hauteur;Unité;22 000;22 800;25 000
+03.1.3.0.0.0.020;Fourniture et pose de lampe LED de 6w d'éclairage de jardin de 1m de hauteur;Unité;22 000;22 800;25 000
+03.1.3.0.0.0.021;Installation de système d'arrosage manuel pour jardin;m²;42 500;45 500;50 000
+03.1.3.0.0.0.022;Installation de système d'arrosage automatique pour jardin;m²;57 500;60 500;65 000
+03.1.4;TRAVAUX SPECIFIQUES AUX INFRASTRUCTURES SPORTIVES;;;;
+03.1.4.1;TERRASSEMENT;;;;
+03.1.4.1.0.0.002;Traitement des joints en mastic ASPHAX coulé à chaud y compris toutes autres sujétions;ml;15 000;16 250;17 500
+03.1.4.2;MARQUAGES;;;;
+03.1.4.2.0.0.001;Marquage des aires de jeux (tracées règlementaires) par pulvérisation de peinture(acrylique) sans air à haute pression de GRACO (utilisation d'un traceur de terrain sans air (y compris toutes les sujétions));Forfait;1 000 000;1 093 750;1 200 000
+03.1.4.3;FOOTBALL;;;;
+03.1.4.3.0.0.001;Fourniture et pose de poteaux de buts professionnels, y compris toutes les sujétions;Unité;600 000;650 000;700 000
+03.1.4.3.0.0.002;Fourniture et pose d'une paire complète de filet professionnel, y compris toutes les sujétions;Ensemble;85 000;91 875;100 000
+03.1.4.3.0.0.003;Fourniture et pose d'abris-bancs-de-touche professionnels avec ossature en alluminium, couverture en plexiglass et banquette de 10 places assises, y compris toutes les sujétions;Unité;2 000 000;2 050 000;2 150 000
+03.1.4.3.0.0.004;Fourniture d'une machine à brosser de type à tambour propulseur, modèle à brosse-gazon synthétique, de puissance 3 KW, performance 4 500m²/heure (Dimensions : L = 1 800mm / l = 1 500mm / h=1000 mm), y compris toutes les sujétions;Unité;3 275 000;3 375 000;3 500 000
+03.1.4.3.0.0.005;Fourniture et pose de tapis de gazon synthétique de type football( XM7), y compris tracé au sol des limites de terrain en gazon synthétique de couleur blanche, tapis de mousse anti choc, géotextile de réparation, lit de sable+ granulés de caoutchouc antidérapant, joint de tapis et toute autre sujétion;m²;22 500;23 750;25 000
+03.1.4.4.0.0.001;Fourniture et pose de poteaux de buts professionnels de handball, y compris toutes les sujétions;Forfait;500 000;550 000;600 000
+03.1.4.5;BASKETBALL;;;;
+03.1.4.5.0.0.001;Fourniture et pose de panneaux professionnels fixes  de basketball  y compris toutes les sujétions;Forfait;1 300 000;1 412 500;1 500 000
+03.1.4.5.0.0.002;Fourniture et pose d'une paire complète de filets professionnels de basketball , y compris toutes les sujétions;Unité;175 000;183 750;200 000
+03.1.4.6;VOLLEYBALL;;;;
+03.1.4.6.0.0.001;Fourniture et pose d'une chaise professionnelle d'arbitre de volley ball , y compris toutes les sujétions;Ensemble;750 000;773 750;800 000
+03.1.4.6.0.0.002;Fourniture et pose d'une paire complète de filet professionnel de volley ball, y compris toutes les sujétions;Unité;400 000;437 500;475 000
+03.1.4.6.0.0.003;Fourniture et pose d'une paire de poteaux professionnels de volley ball, y compris toutes les sujétions;Ensemble;375 000;387 500;400 000

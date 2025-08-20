@@ -1,0 +1,9 @@
+# Environnement Virtuel
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers Excel temporaires
+~$*.xlsm

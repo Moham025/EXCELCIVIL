@@ -1,0 +1,54 @@
+
+' **************************************************************************************************
+' ** CODE À PLACER DANS LE MODULE DU USERFORM (SearchForm) **
+' **************************************************************************************************
+
+Private Sub lstResults_DblClick(ByVal Cancel As MSForms.ReturnBoolean)
+    ' Se déclenche quand l'utilisateur double-clique sur une suggestion
+    'Application.EnableEvents = True
+    ' Vérifie si une cellule cible est bien mémorisée
+    If Module1.ActiveTargetCell Is Nothing Then Exit Sub
+    
+    ' Vérifie si un item est bien sélectionné
+    If Me.lstResults.ListIndex = -1 Then Exit Sub
+    
+    Dim selectedItem As String
+    Dim itemParts() As String
+    
+    ' Récupère l'item sélectionné
+    selectedItem = Me.lstResults.List(Me.lstResults.ListIndex)
+    
+    ' Sépare la ligne en utilisant " | " comme délimiteur
+    itemParts = Split(selectedItem, " | ")
+    
+    ' Évite les erreurs si la ligne n'a pas le bon format
+    If UBound(itemParts) < 2 Then Exit Sub
+    
+    ' Désactiver les événements pour éviter que le code ne se redéclenche lui-même
+    Application.EnableEvents = False
+    
+    ' Remplit les cellules d'Excel avec les informations
+    ' itemParts(0) = Désignation, itemParts(1) = Unité, itemParts(2) = Prix
+    ' <<<<<<< ADAPTEZ LES COLONNES SI NÉCESSAIRE >>>>>>>
+    
+    ' Colonne B (Désignation)
+    Module1.ActiveTargetCell.value = Trim(itemParts(0))
+    
+    ' Colonne C (Unité) - NOUVELLE LIGNE AJOUTÉE
+    Module1.ActiveTargetCell.Offset(0, 1).value = Trim(itemParts(1))
+    
+    ' Colonne E (Prix Unitaire) - Offset changé de 3 à 3 pour maintenir la colonne F
+    Module1.ActiveTargetCell.Offset(0, 3).value = CDbl(Trim(itemParts(2)))
+    
+    ' Réactiver les événements
+    Application.EnableEvents = True
+    Call MiseEnFormeLigne(Module1.ActiveTargetCell.Row)
+    ' Cacher le formulaire
+    Me.Hide
+    
+End Sub
+
+Private Sub UserForm_Terminate()
+    ' S'assure de bien vider la variable quand le formulaire est fermé
+    Set Module1.ActiveTargetCell = Nothing
+End Sub

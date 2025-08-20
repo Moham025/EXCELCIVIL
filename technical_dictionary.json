@@ -1,0 +1,93 @@
+{ "remblai": ["remblai", "remblayage", "comblement", "remplissage"],
+  "remblai sans apport": ["remblai sans apport", "remblai en place", "remblai existant", "compactage sans apport"],
+  "remblai d'apport": ["remblai d'apport", "remblai avec apport", "apport de terre", "terre d'apport"],
+  "terrassement": ["terrassement", "excavation", "deblai", "fouille"],
+  
+  "fouille": ["fouille", "excavation", "creusement", "terrassement"],
+  "fouille filante": ["fouille filante", "fouille en rigole", "fouille pour semelle filante", "rigole de fondation"],
+  "fouille en puit": ["fouille en puit", "fouille ponctuelle", "fouille isolee", "puit de fondation"],
+  "fouille en masse": ["fouille en masse", "fouille generale", "deblai general"],
+  
+  "semelle": ["semelle", "fondation", "base"],
+  "semelle filante": ["semelle filante", "semelle continue", "fondation filante"],
+  "semelle isolee": ["semelle isolee", "semelle ponctuelle", "semelle individuelle"],
+  "radier": ["radier", "dalle de fondation", "fondation generale"],
+  
+  "poteau": ["poteau", "poteaux", "pilier", "raidisseur", "montant"],
+  "poutre": ["poutre", "linteau", "traverse"],
+  "dalle": ["dalle", "plancher", "plafond"],
+  "voile": ["voile", "mur", "cloison", "refend"],
+  
+  "maconnerie": ["maconnerie", "construction", "batiment"],
+  "moellon": ["moellon", "pierre", "roche", "bloc"],
+  "mortier": ["mortier", "liant", "ciment"],
+  "enduit": ["enduit", "crepissage", "revetement", "finition"],
+  "crepissage": ["crepissage", "enduit", "taloche", "barbotine", "lissage"],
+  "barbotine": ["barbotine", "enduit fin", "lait de ciment"],
+  "taloche": ["taloche", "lissage", "finition", "dressage"],
+  
+  "toiture": ["toiture", "couverture", "toit"],
+  "tuile": ["tuile", "couverture", "element de couverture"],
+  "charpente": ["charpente", "ossature", "structure"],
+  
+  "carrelage": ["carrelage", "carreau", "revetement", "dallage"],
+  "faience": ["faience", "carreau mural", "revetement mural"],
+  
+  "canalisation": ["canalisation", "tuyauterie", "conduite", "reseau"],
+  "evacuation": ["evacuation", "assainissement", "egout", "drainage"],
+  
+  "electricite": ["electricite", "electrique", "installation electrique"],
+  "cable": ["cable", "fil", "conducteur"],
+  
+  "peinture": ["peinture", "badigeon", "revetement", "finition","FOM", "Enduit", "Peinture à eau ", "Peinture","Plâtre","Phaum","Faume"],
+  "vernis": ["vernis", "lasure", "protection"],
+  
+  "nivellement": ["nivellement", "arasement", "mise a niveau", "planage"],
+  
+  "compactage": ["compactage", "compacter", "densification", "tassement"],
+  "proctor": ["proctor", "densité", "compacité", "optimum"],
+  
+  "beton": ["beton", "mortier", "ciment"],
+  "laterite": ["laterite", "lateritique", "terre rouge", "sol tropical"],
+  "gres": ["gres", "ceramique", "carreau"],
+  "aluminium": ["aluminium", "allu", "alu", "metallique"],
+  "galvanise": ["galvanise", "galva", "zinc", "anticorrosion"],
+  "metal": ["metal", "metallique", "acier", "fer"],
+  
+  "metre": ["metre", "m", "lineaire"],
+  "carre": ["carre", "m2", "superficie", "surface"],
+  "cube": ["cube", "m3", "volume", "cubique"],
+  "unite": ["unite", "piece", "element"],
+  "forfait": ["forfait", "global", "ensemble"],
+  
+  "hydraulique": ["hydraulique", "eau", "pompage", "adduction"],
+  "sanitaire": ["sanitaire", "plomberie", "robinetterie"],
+  "menuiserie": ["menuiserie", "bois", "porte", "fenetre"],
+  "serrurerie": ["serrurerie", "metallerie", "fer", "grille"],
+  "plomberie": ["plomberie", "sanitaire", "eau", "evacuation"],
+  "isolation": ["isolation", "thermique", "phonique", "isolant"],
+  "etancheite": ["etancheite", "impermeabilisation", "protection"],
+  
+  "agregat": ["agregat", "granulat", "gravier", "sable"],
+  "concasse": ["concasse", "pierre cassee", "gravillon"],
+  "sable": ["sable", "fin", "granulat fin"],
+  "gravier": ["gravier", "caillou", "granulat"],
+  "ciment": ["ciment", "liant", "portland"],
+  
+  "dosage": ["dosage", "proportion", "melange"],
+  "malaxage": ["malaxage", "melange", "betonnage"],
+  "coulage": ["coulage", "betonnage", "mise en oeuvre"],
+  "coffrage": ["coffrage", "banchage", "moule"],
+  "decoffrage": ["decoffrage", "demoulage"],
+  
+  "armature": ["armature", "fer", "acier", "ferraillage"],
+  "treillis": ["treillis", "grillage", "armature"],
+  "acier": ["acier", "fer", "metal", "armature"],
+  
+  "joint": ["joint", "jointoiement", "calfeutrement"],
+  "ragreagage": ["ragreagage", "lissage", "finition"],
+  "ponçage": ["poncage", "abrasion", "lissage"],
+  
+  "echafaudage": ["echafaudage", "echafaud", "structure"],
+  "etai": ["etai", "etayage", "support", "appui"]
+}
