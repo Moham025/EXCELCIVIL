@@ -11,7 +11,11 @@ from pathlib import Path
 # Configuration du serveur Flask
 SERVER_CONFIG = {
     'host': '0.0.0.0',
+<<<<<<< HEAD
     'port': 7860,  # Port HuggingFace Spaces
+=======
+    'port': 5000,
+>>>>>>> de0960da42692f91b54fcd7d0f4f006613c494ce
     'debug': False
 }
 
@@ -20,14 +24,22 @@ PATHS = {
     'base_dir': Path(__file__).resolve().parent,
     'bibliotheque': Path(__file__).resolve().parent / "BIBLIOTHEQUE",
     'dictionary': Path(__file__).resolve().parent / 'technical_dictionary.json',
+<<<<<<< HEAD
     'cache': Path('/tmp/app_cache'),  # Utilise /tmp qui est toujours accessible en écriture
+=======
+    'cache': Path(__file__).resolve().parent / "cache",
+>>>>>>> de0960da42692f91b54fcd7d0f4f006613c494ce
     'parametres': Path(__file__).resolve().parent / "parametres",
     'last_work': Path(__file__).resolve().parent / "parametres" / "lastwork.txt"
 }
 
 # Crée les dossiers nécessaires s'ils n'existent pas
 PATHS['bibliotheque'].mkdir(exist_ok=True)
+<<<<<<< HEAD
 PATHS['cache'].mkdir(parents=True, exist_ok=True)  # parents=True pour créer les dossiers parents si nécessaire
+=======
+PATHS['cache'].mkdir(exist_ok=True)
+>>>>>>> de0960da42692f91b54fcd7d0f4f006613c494ce
 PATHS['parametres'].mkdir(exist_ok=True)
 
 # Configuration du modèle de Sentence Transformer
@@ -57,4 +69,8 @@ SEARCH_THRESHOLDS = {
     'word_order_boost': 15,
     'length_penalty_short': 0.95,
     'length_penalty_long': 0.90,
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> de0960da42692f91b54fcd7d0f4f006613c494ce

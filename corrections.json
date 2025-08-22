@@ -81,6 +81,7 @@
     "filant",
     "filante",
     "rigole"
+<<<<<<< HEAD
   ],
     "climatiseur": [
     "climatiseur",
@@ -89,5 +90,7 @@
     "clima",
     "climat",
     "climatisation"
+=======
+>>>>>>> de0960da42692f91b54fcd7d0f4f006613c494ce
   ]
 }

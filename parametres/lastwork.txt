@@ -1,3 +1,7 @@
 TERRASSEMENT
 Mercuriale_BTP_2022_Ouagadougou
+<<<<<<< HEAD
 Minimum
+=======
+Moyen
+>>>>>>> de0960da42692f91b54fcd7d0f4f006613c494ce

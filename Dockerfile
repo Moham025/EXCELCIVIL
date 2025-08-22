@@ -1,9 +1,14 @@
 # Utiliser une image Python officielle
+<<<<<<< HEAD
 FROM docker.io/library/python:3.11-slim
+=======
+FROM python:3.9-slim
+>>>>>>> de0960da42692f91b54fcd7d0f4f006613c494ce
 
 # Définir le répertoire de travail dans le conteneur
 WORKDIR /code
 
+<<<<<<< HEAD
 # Variables d'environnement pour tous les caches (à définir AVANT l'installation)
 ENV TRANSFORMERS_CACHE=/tmp/transformers_cache
 ENV HF_HOME=/tmp/huggingface_cache
@@ -26,6 +31,8 @@ RUN mkdir -p /tmp/app_cache \
 RUN useradd --create-home --shell /bin/bash app_user && \
     chown -R app_user:app_user /code
 
+=======
+>>>>>>> de0960da42692f91b54fcd7d0f4f006613c494ce
 # Copier le fichier des dépendances et les installer
 COPY ./requirements.txt /code/requirements.txt
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
@@ -33,9 +40,12 @@ RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
 # Copier tout le reste de votre code
 COPY . /code/
 
+<<<<<<< HEAD
 # Changer vers l'utilisateur non-root
 USER app_user
 
+=======
+>>>>>>> de0960da42692f91b54fcd7d0f4f006613c494ce
 # Indiquer que l'application écoutera sur le port 7860 (port par défaut de HF Spaces)
 EXPOSE 7860
 
