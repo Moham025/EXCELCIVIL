@@ -91,6 +91,23 @@ def load_library(library_name: str, price_type: str = "Moyen") -> pd.DataFrame |
 
 # --- Endpoints de l'API ---
 
+@app.route('/', methods=['GET'])
+def home():
+    """Page d'accueil avec informations sur l'API."""
+    return create_json_response({
+        "name": "Système de Recherche BTP",
+        "version": "1.0",
+        "status": "online",
+        "endpoints": {
+            "/": "Cette page d'accueil",
+            "/status": "État du serveur",
+            "/libraries": "Liste des bibliothèques disponibles",
+            "/search": "Recherche dans les bibliothèques"
+        },
+        "current_library": current_library_key,
+        "available_libraries": get_available_libraries()
+    })
+
 @app.route('/status', methods=['GET'])
 def status():
     """Endpoint pour vérifier l'état du serveur."""
@@ -124,6 +141,15 @@ def search():
 
     results = search_engine.search(df, query, limit)
     return create_json_response(results)
+
+@app.errorhandler(404)
+def not_found(error):
+    """Gestionnaire d'erreur 404 personnalisé."""
+    return create_json_response({
+        "error": "Endpoint non trouvé",
+        "available_endpoints": ["/", "/status", "/libraries", "/search"],
+        "message": "Consultez la documentation à la racine ('/') pour plus d'informations"
+    }, 404)
 
 # --- Démarrage du serveur ---
 
