@@ -11,7 +11,7 @@ from pathlib import Path
 # Configuration du serveur Flask
 SERVER_CONFIG = {
     'host': '0.0.0.0',
-    'port': 5000,
+    'port': 7860,  # Port HuggingFace Spaces
     'debug': False
 }
 
@@ -20,14 +20,14 @@ PATHS = {
     'base_dir': Path(__file__).resolve().parent,
     'bibliotheque': Path(__file__).resolve().parent / "BIBLIOTHEQUE",
     'dictionary': Path(__file__).resolve().parent / 'technical_dictionary.json',
-    'cache': Path('/tmp/cache'), # Changed from '/code/cache'
+    'cache': Path('/tmp/app_cache'),  # Utilise /tmp qui est toujours accessible en écriture
     'parametres': Path(__file__).resolve().parent / "parametres",
     'last_work': Path(__file__).resolve().parent / "parametres" / "lastwork.txt"
 }
 
 # Crée les dossiers nécessaires s'ils n'existent pas
 PATHS['bibliotheque'].mkdir(exist_ok=True)
-PATHS['cache'].mkdir(exist_ok=True)
+PATHS['cache'].mkdir(parents=True, exist_ok=True)  # parents=True pour créer les dossiers parents si nécessaire
 PATHS['parametres'].mkdir(exist_ok=True)
 
 # Configuration du modèle de Sentence Transformer

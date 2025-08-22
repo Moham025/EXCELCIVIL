@@ -1,4 +1,5 @@
 Attribute VB_Name = "Module1"
+
 ' **************************************************************************************************
 ' ** MODULE 1 - VERSION FINALE AVEC GESTION UTF-8 **
 ' **************************************************************************************************
@@ -7,7 +8,7 @@ Attribute VB_Name = "Module1"
 ' == CONFIGURATION DU SERVEUR ==
 ' ==================================================================================================
 ' *** ADRESSE IP MISE À JOUR ***
-Public Const SERVER_BASE_URL As String = "http://192.168.11.104:5000"
+Public Const SERVER_BASE_URL As String = "https://sanouchat-excelcivil.hf.space"
 
 ' Variable globale pour la cellule active
 Public ActiveTargetCell As Range
